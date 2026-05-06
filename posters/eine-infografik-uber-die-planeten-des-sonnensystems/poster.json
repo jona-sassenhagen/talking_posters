@@ -1,0 +1,64 @@
+{
+  "id": "eine-infografik-uber-die-planeten-des-sonnensystems",
+  "title": "Eine Infografik über die Planeten des Sonnensystems",
+  "prompt": "Eine Infografik über die Planeten des Sonnensystems",
+  "image": "/poster-assets/eine-infografik-uber-die-planeten-des-sonnensystems/poster.png",
+  "createdAt": "2026-05-06T10:57:07Z",
+  "language": "de-DE",
+  "sections": [
+    {
+      "id": "planetenbahnen",
+      "label": "Planetenbahnen",
+      "text": "Das Sonnensystem besteht aus acht Planeten, die auf ihren Bahnen um die Sonne laufen. Von innen nach außen folgen Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun. Die vier inneren Planeten liegen nahe bei der Sonne, danach folgen die deutlich größeren äußeren Planeten.",
+      "x": 2,
+      "y": 1,
+      "width": 96,
+      "height": 37
+    },
+    {
+      "id": "planetentabelle",
+      "label": "Planetentabelle",
+      "text": "Die Tabelle vergleicht alle acht Planeten. Merkur ist etwa achtundfünfzig Millionen Kilometer von der Sonne entfernt, hat einen Durchmesser von viertausendachthundertneunundsiebzig Kilometern und braucht achtundachtzig Tage für einen Umlauf. Venus ist etwa einhundertacht Millionen Kilometer entfernt, sehr heiß und umläuft die Sonne in zweihundertfünfundzwanzig Tagen. Die Erde ist unser Zuhause, liegt etwa einhundertfünfzig Millionen Kilometer von der Sonne entfernt und braucht dreihundertfünfundsechzig Tage. Mars ist der rote Planet, hat zwei Monde und benötigt sechshundertsiebenundachtzig Tage. Jupiter ist der größte Planet, besitzt mehr als fünfundneunzig bekannte Monde und braucht etwa elf Komma neun Jahre. Saturn ist für seine Ringe bekannt, hat mehr als einhundertsechsundvierzig Monde und umläuft die Sonne in rund neunundzwanzig Komma fünf Jahren. Uranus dreht sich auf der Seite und braucht vierundachtzig Jahre. Neptun ist für sehr starke Winde bekannt und benötigt einhundertfünfundsechzig Jahre für eine Sonnenumrundung.",
+      "x": 2,
+      "y": 37,
+      "width": 96,
+      "height": 27
+    },
+    {
+      "id": "planetentypen",
+      "label": "Planeten nach Typ",
+      "text": "Die Planeten lassen sich in drei Gruppen einteilen. Merkur, Venus, Erde und Mars sind Gesteinsplaneten. Sie sind klein, fest und felsig und gehören zu den inneren Planeten. Jupiter und Saturn sind Gasriesen. Sie sind sehr groß und bestehen hauptsächlich aus Gas. Uranus und Neptun sind Eisriesen, denn sie bestehen aus Eis, Gas und Gestein und liegen im äußeren Sonnensystem.",
+      "x": 2,
+      "y": 65,
+      "width": 29,
+      "height": 22
+    },
+    {
+      "id": "groessenvergleich",
+      "label": "Größen im Vergleich",
+      "text": "Im Größenvergleich fallen Jupiter und Saturn besonders auf. Jupiter ist über elfmal größer im Durchmesser als die Erde und ist der größte Planet des Sonnensystems. Saturn ist ebenfalls sehr groß und wird durch sein Ringsystem sofort erkennbar. Die Gesteinsplaneten sind dagegen deutlich kleiner, während Uranus und Neptun zwischen den Gasriesen und den inneren Planeten liegen.",
+      "x": 32,
+      "y": 65,
+      "width": 32,
+      "height": 22
+    },
+    {
+      "id": "entfernung-zur-sonne",
+      "label": "Entfernung zur Sonne",
+      "text": "Die Entfernung zur Sonne nimmt nach außen stark zu. Merkur ist mit etwa achtundfünfzig Millionen Kilometern der sonnennächste Planet. Danach folgen Venus mit einhundertacht Millionen Kilometern, Erde mit einhundertfünfzig Millionen Kilometern und Mars mit zweihundertachtundzwanzig Millionen Kilometern. Jupiter liegt bereits bei siebenhundertachtundsiebzig Millionen Kilometern. Saturn ist etwa eins Komma dreiundvierzig Milliarden Kilometer entfernt, Uranus etwa zwei Komma siebenundachtzig Milliarden Kilometer und Neptun etwa vier Komma fünf Milliarden Kilometer.",
+      "x": 66,
+      "y": 65,
+      "width": 32,
+      "height": 22
+    },
+    {
+      "id": "spannende-fakten",
+      "label": "Spannende Fakten",
+      "text": "Einige Planeten haben besonders auffällige Eigenschaften. Auf der Venus ist es so heiß, dass Blei schmelzen würde. Ein Tag auf der Erde dauert vierundzwanzig Stunden und ist ideal für das Leben, wie wir es kennen. Auf dem Jupiter tobt der Große Rote Fleck seit über dreihundert Jahren. Die Ringe des Saturn bestehen aus Eis und Gesteinsbrocken. Auf Neptun können Winde mit mehr als zweitausend Kilometern pro Stunde wehen.",
+      "x": 2,
+      "y": 88,
+      "width": 96,
+      "height": 10
+    }
+  ]
+}

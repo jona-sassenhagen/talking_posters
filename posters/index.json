@@ -1,6 +1,22 @@
 {
   "posters": [
     {
+      "id": "planets-of-the-solar-system",
+      "title": "The Planets of the Solar System",
+      "prompt": "English version of an infographic about the planets of the solar system",
+      "image": "/poster-assets/planets-of-the-solar-system/poster.png",
+      "createdAt": "2026-05-06T11:26:26Z",
+      "language": "en-US"
+    },
+    {
+      "id": "eine-infografik-uber-die-planeten-des-sonnensystems",
+      "title": "Eine Infografik über die Planeten des Sonnensystems",
+      "prompt": "Eine Infografik über die Planeten des Sonnensystems",
+      "image": "/poster-assets/eine-infografik-uber-die-planeten-des-sonnensystems/poster.png",
+      "createdAt": "2026-05-06T10:57:07Z",
+      "language": "de-DE"
+    },
+    {
       "id": "eine-infografik-uber-den-rhein-kindgerecht",
       "title": "Eine Infografik über den Rhein (kindgerecht)",
       "prompt": "Eine Infografik über den Rhein (kindgerecht)",

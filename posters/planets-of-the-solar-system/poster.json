@@ -1,0 +1,56 @@
+{
+  "id": "planets-of-the-solar-system",
+  "title": "The Planets of the Solar System",
+  "prompt": "English version of an infographic about the planets of the solar system",
+  "image": "/poster-assets/planets-of-the-solar-system/poster.png",
+  "createdAt": "2026-05-06T11:26:26Z",
+  "language": "en-US",
+  "ttsVoice": "Siri Voice 4",
+  "sections": [
+    {
+      "id": "planet-order",
+      "label": "Planet Order",
+      "text": "The planet order table introduces the eight planets from the Sun outward. Mercury is the smallest planet and the closest to the Sun. Venus is the hottest planet because of its thick carbon dioxide atmosphere. Earth is our home planet and the only known world with life. Mars is the Red Planet, with the tallest volcano and vast canyons. Jupiter is the largest planet and has the Great Red Spot storm. Saturn is famous for its spectacular ring system. Uranus rotates on its side with an extreme axial tilt, and Neptune is the windiest planet, with supersonic storms.",
+      "x": 1,
+      "y": 12,
+      "width": 38,
+      "height": 57
+    },
+    {
+      "id": "orbital-map",
+      "label": "Orbital Map",
+      "text": "The orbital map shows the Sun and the planets arranged along elliptical paths. Mercury, Venus, Earth, and Mars are the inner planets closest to the Sun. Beyond them are the much larger outer planets: Jupiter, Saturn, Uranus, and Neptune. The map emphasizes that the planets orbit the Sun in order, while their sizes and distances vary greatly.",
+      "x": 39,
+      "y": 12,
+      "width": 60,
+      "height": 57
+    },
+    {
+      "id": "planet-types",
+      "label": "Planet Types",
+      "text": "The planets are grouped into three main types. Mercury, Venus, Earth, and Mars are terrestrial planets, meaning they are small rocky planets with solid surfaces. Jupiter and Saturn are gas giants, large planets made mainly of hydrogen and helium. Uranus and Neptune are ice giants, large cold planets made of ice, rock, and gas.",
+      "x": 1,
+      "y": 70,
+      "width": 31,
+      "height": 24
+    },
+    {
+      "id": "relative-size",
+      "label": "Relative Size",
+      "text": "The relative size panel compares planetary diameters. Jupiter is the largest planet at about one hundred thirty nine thousand eight hundred twenty kilometers across. Saturn is also enormous at about one hundred sixteen thousand four hundred sixty kilometers. Uranus and Neptune are smaller than the gas giants but still far larger than Earth. Mercury, Venus, Earth, and Mars are the small inner rocky planets.",
+      "x": 32,
+      "y": 70,
+      "width": 39,
+      "height": 24
+    },
+    {
+      "id": "quick-facts",
+      "label": "Quick Facts",
+      "text": "The quick facts explain several basic ideas about planets. All planets orbit the Sun in elliptical paths, and one orbit around the Sun is a year on that planet. Temperatures and year lengths vary greatly across the planets. Many planets have moons, rings, and strong magnetic fields. Space exploration continues to reveal new details about the solar system.",
+      "x": 72,
+      "y": 70,
+      "width": 27,
+      "height": 24
+    }
+  ]
+}

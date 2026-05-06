@@ -33,7 +33,7 @@ async function main() {
 
   const voices = await listVoices();
   const language = normalizeLanguage(args.language ?? poster.language ?? detectLanguage(poster));
-  const voice = resolveVoice(voices, args.voice ?? process.env.TALKING_POSTER_TTS_VOICE ?? poster.ttsVoice, language);
+  const voice = await resolveVoice(voices, args.voice ?? process.env.TALKING_POSTER_TTS_VOICE ?? poster.ttsVoice, language);
   const audioDir = path.join(publicAudioDir, poster.id);
 
   await fs.mkdir(audioDir, { recursive: true });
@@ -101,13 +101,20 @@ async function listVoices() {
   return voices;
 }
 
-function resolveVoice(voices: Voice[], configuredVoice: string | undefined, language: string) {
+async function resolveVoice(voices: Voice[], configuredVoice: string | undefined, language: string) {
   if (configuredVoice) {
     const exact = voices.find((voice) => voice.name === configuredVoice);
-    if (!exact) {
+    if (exact) {
+      return exact;
+    }
+
+    try {
+      await execFileAsync("say", ["-v", configuredVoice, "test", "-o", "/tmp/talking-poster-voice-check.aiff"]);
+      await fs.rm("/tmp/talking-poster-voice-check.aiff", { force: true });
+      return { name: configuredVoice, locale: language, sample: "" };
+    } catch {
       fail(`Configured voice "${configuredVoice}" is not installed. Available matching language voices: ${voiceNamesForLanguage(voices, language)}`);
     }
-    return exact;
   }
 
   const languagePrefix = language.split("-")[0];
