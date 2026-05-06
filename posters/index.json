@@ -1,6 +1,14 @@
 {
   "posters": [
     {
+      "id": "planety-soniachnoi-systemy",
+      "title": "Планети Сонячної системи",
+      "prompt": "Українська інфографіка про планети Сонячної системи",
+      "image": "/poster-assets/planety-soniachnoi-systemy/poster.png",
+      "createdAt": "2026-05-06T11:56:41Z",
+      "language": "uk-UA"
+    },
+    {
       "id": "planets-of-the-solar-system",
       "title": "The Planets of the Solar System",
       "prompt": "English version of an infographic about the planets of the solar system",

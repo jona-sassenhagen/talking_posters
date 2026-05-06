@@ -6,7 +6,7 @@ import "./styles.css";
 
 const isStaticPosters = import.meta.env.VITE_STATIC_POSTERS === "true";
 const baseUrl = import.meta.env.BASE_URL;
-const locales = ["de", "en"] as const;
+const locales = ["de", "en", "uk"] as const;
 
 type Locale = (typeof locales)[number];
 
@@ -68,6 +68,23 @@ const translations: Record<
     confirmDelete: (title) => `Delete "${title}"? This removes the poster files and generated audio.`,
     deleteLabel: (title) => `Delete ${title}`,
     readSection: (label) => `Read text: ${label}`
+  },
+  uk: {
+    title: "Постери, що говорять",
+    kicker: "Локальна колекція постерів",
+    generateOwn: "Створити власний",
+    languageNav: "Змінити мову",
+    languageName: "Українська",
+    flag: "🇺🇦",
+    generatedPosters: "Створені постери",
+    loadingPosters: "Постери завантажуються",
+    loadingPoster: "Постер завантажується",
+    emptyGallery: "Ще немає постерів цією мовою.",
+    backToGallery: "До галереї",
+    deleteTitle: "Видалити постер",
+    confirmDelete: (title) => `Видалити "${title}"? Це прибере файли постера та створені аудіофайли.`,
+    deleteLabel: (title) => `Видалити ${title}`,
+    readSection: (label) => `Прочитати текст: ${label}`
   }
 };
 
@@ -284,7 +301,7 @@ function PosterView({ id, locale, navigate }: { id: string; locale: Locale; navi
 }
 
 function parseRoute(path: string): { kind: "gallery"; locale: Locale } | { kind: "poster"; locale: Locale; id: string } {
-  const localeMatch = path.match(/^\/(de|en)(?:\/poster\/([^/]+))?\/?$/);
+  const localeMatch = path.match(/^\/(de|en|uk)(?:\/poster\/([^/]+))?\/?$/);
   if (localeMatch) {
     return localeMatch[2]
       ? { kind: "poster", locale: localeMatch[1] as Locale, id: decodeURIComponent(localeMatch[2]) }
@@ -300,7 +317,13 @@ function parseRoute(path: string): { kind: "gallery"; locale: Locale } | { kind:
 }
 
 function posterLocale(poster: PosterSummary): Locale {
-  return poster.language?.startsWith("en") ? "en" : "de";
+  if (poster.language?.startsWith("en")) {
+    return "en";
+  }
+  if (poster.language?.startsWith("uk")) {
+    return "uk";
+  }
+  return "de";
 }
 
 function getCurrentPath() {
