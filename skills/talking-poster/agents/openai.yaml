@@ -1,0 +1,6 @@
+interface:
+  display_name: "Talking Poster"
+  short_description: "Create bitmap-first talking posters"
+  default_prompt: "Use $talking-poster to generate a new interactive talking poster from my prompt."
+policy:
+  allow_implicit_invocation: true

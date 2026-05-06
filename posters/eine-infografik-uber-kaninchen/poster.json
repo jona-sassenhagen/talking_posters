@@ -1,0 +1,72 @@
+{
+  "id": "eine-infografik-uber-kaninchen",
+  "title": "Eine Infografik über Kaninchen",
+  "prompt": "Eine Infografik über Kaninchen",
+  "image": "/poster-assets/eine-infografik-uber-kaninchen/poster.png",
+  "createdAt": "2026-05-05T23:10:51.000Z",
+  "sections": [
+    {
+      "id": "steckbrief",
+      "label": "Steckbrief",
+      "text": "Im Steckbrief werden Kaninchen als hasenartige Tiere aus der Familie der Leporidae vorgestellt. Sie werden etwa dreißig bis fünfzig Zentimeter groß, wiegen ungefähr eineinhalb bis zweieinhalb Kilogramm und erreichen meist ein Alter von acht bis zwölf Jahren. Ursprünglich stammen sie aus Südwesteuropa, heute sind sie weltweit verbreitet.",
+      "x": 2,
+      "y": 14,
+      "width": 30,
+      "height": 31
+    },
+    {
+      "id": "korper",
+      "label": "Körper",
+      "text": "Der Körper des Kaninchens ist gut an ein wachsames Leben am Boden angepasst. Die langen Ohren helfen beim Hören und bei der Temperaturregulation. Große Augen geben einen weiten Blickwinkel, die sensible Nase hat einen ausgezeichneten Geruchssinn. Weiches Fell schützt und wärmt, und kräftige Hinterläufe ermöglichen schnelle Flucht und weite Sprünge.",
+      "x": 66,
+      "y": 14,
+      "width": 32,
+      "height": 29
+    },
+    {
+      "id": "lebensraum",
+      "label": "Lebensraum",
+      "text": "Kaninchen leben in verschiedenen Umgebungen. Auf der Infografik werden Wiesen und Felder sowie Wälder und Gebüsche gezeigt. Sie graben Baue, also Erdhöhlen mit vielen Gängen und Ausgängen. Gesellige Tiere leben in Gruppen, was ihnen mehr Schutz bietet.",
+      "x": 2,
+      "y": 45,
+      "width": 29,
+      "height": 27
+    },
+    {
+      "id": "nahrung",
+      "label": "Nahrung",
+      "text": "Kaninchen sind Pflanzenfresser. Eine ballaststoffreiche Ernährung ist besonders wichtig. Auf dem Speiseplan stehen Gräser, Kräuter, Blätter, Heu, Gemüse und Zweige. Frisches Wasser sollte immer verfügbar sein.",
+      "x": 69,
+      "y": 45,
+      "width": 29,
+      "height": 26
+    },
+    {
+      "id": "verhalten",
+      "label": "Verhalten",
+      "text": "Kaninchen sind dämmerungs- und nachtaktiv. Sie sind sehr soziale Tiere und kommunizieren mit Körperhaltung, Nasenberührungen und Lauten. Wenn Gefahr droht, trommeln sie mit den Hinterläufen. Außerdem sind sie neugierig und intelligent.",
+      "x": 2,
+      "y": 73,
+      "width": 29,
+      "height": 21
+    },
+    {
+      "id": "nachwuchs",
+      "label": "Nachwuchs",
+      "text": "Beim Nachwuchs zeigt die Infografik, dass Weibchen, also Häsinnen, sehr fruchtbar sind. Die Tragzeit beträgt ungefähr achtundzwanzig bis einunddreißig Tage. Ein Wurf umfasst meist drei bis zehn Jungtiere. Die Jungen kommen nackt und blind zur Welt, das Nest im Bau ist mit Fell und Heu ausgepolstert, und nach vier bis sechs Wochen sind die Jungtiere selbstständig.",
+      "x": 33,
+      "y": 72,
+      "width": 31,
+      "height": 23
+    },
+    {
+      "id": "pflege-und-haltung",
+      "label": "Pflege & Haltung",
+      "text": "Für eine artgerechte Haltung brauchen Kaninchen mindestens ein zweites Kaninchen als Gesellschaft. Sie benötigen viel Platz mit ausreichend Auslauf und Bewegung sowie eine abwechslungsreiche Einrichtung mit Verstecken, Ebenen und Buddelmöglichkeiten. Tägliche Pflege bedeutet frisches Heu, sauberes Wasser und Kontrolle. Regelmäßige Gesundheitskontrollen und eine ausgewogene Ernährung gehören ebenfalls dazu.",
+      "x": 66,
+      "y": 72,
+      "width": 32,
+      "height": 23
+    }
+  ]
+}

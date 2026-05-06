@@ -1,0 +1,64 @@
+{
+  "id": "eine-infografik-uber-nasas-artemis-programm",
+  "title": "Eine Infografik über NASAs Artemis-Programm",
+  "prompt": "Eine Infografik über NASAs Artemis-Programm",
+  "image": "/poster-assets/eine-infografik-uber-nasas-artemis-programm/poster.png",
+  "createdAt": "2026-05-05T23:25:40Z",
+  "language": "de-DE",
+  "sections": [
+    {
+      "id": "ueberblick",
+      "label": "Überblick",
+      "text": "Das Artemis-Programm steht für das nächste Kapitel der Monderkundung. Im Mittelpunkt stehen nachhaltige, innovative und inklusive Missionen. Die Übersicht nennt die Rückkehr zum Mond mit den ersten bemannten Landungen seit Apollo, mehr Vielfalt und Chancengleichheit, neue wissenschaftliche Erkenntnisse über Mond und Universum sowie die Vorbereitung auf spätere Reisen zum Mars.",
+      "x": 1.5,
+      "y": 11.5,
+      "width": 27,
+      "height": 23
+    },
+    {
+      "id": "rakete-sls",
+      "label": "Rakete SLS",
+      "text": "Die Rakete SLS, das Space Launch System, ist die schwere Trägerrakete des Artemis-Programms. Sie gehört zu den stärksten Raketen der Welt und bringt die Orion-Kapsel, Ausrüstung und weitere Nutzlasten in Richtung Mond. Unterschiedliche Konfigurationen sollen künftige Missionen flexibel unterstützen, indem bewährte Technik mit neuer Innovation kombiniert wird.",
+      "x": 1.5,
+      "y": 35.5,
+      "width": 32.5,
+      "height": 25
+    },
+    {
+      "id": "orion-kapsel",
+      "label": "Orion-Kapsel",
+      "text": "Die Orion-Kapsel ist das bemannte Raumfahrzeug für Artemis. Sie ist dafür entwickelt, Astronautinnen und Astronauten sicher zur Erde zurückzubringen. Die Kapsel kann bis zu vier Menschen aufnehmen und ist für Missionen jenseits des niedrigen Erdorbits ausgelegt.",
+      "x": 69,
+      "y": 11.5,
+      "width": 29,
+      "height": 25.5
+    },
+    {
+      "id": "gateway",
+      "label": "Gateway",
+      "text": "Gateway ist als Tor zum Mond geplant. Die Raumstation soll in einer stabilen Mondumlaufbahn arbeiten und Landemissionen sowie längere Aufenthalte auf der Oberfläche unterstützen. Außerdem dient sie als Plattform für Forschung und Technologie, mit Tests für die Zukunft der Raumfahrt.",
+      "x": 64,
+      "y": 38.5,
+      "width": 34,
+      "height": 21.5
+    },
+    {
+      "id": "mond-suedpol",
+      "label": "Mond-Südpol",
+      "text": "Der Mond-Südpol gilt als ein Ziel voller Chancen. In dauerhaft schattigen Kratern könnte Wassereis als wertvolle Ressource liegen. Die Region verspricht einzigartige Einblicke in die Geschichte von Mond und Erde und gilt als idealer Standort für langfristige Aufenthalte und den Aufbau einer Basis.",
+      "x": 1.5,
+      "y": 73,
+      "width": 97,
+      "height": 14.5
+    },
+    {
+      "id": "ziele",
+      "label": "Ziele",
+      "text": "Die Ziele von Artemis reichen über einzelne Mondflüge hinaus. Das Programm soll eine nachhaltige Rückkehr ermöglichen und eine dauerhafte Präsenz auf dem Mond etablieren. Gleichzeitig sollen Technologien und Fähigkeiten für Missionen zum Mars weiterentwickelt, globale Partnerschaften gestärkt und die nächste Generation für Wissenschaft und Raumfahrt begeistert werden.",
+      "x": 1.5,
+      "y": 88.5,
+      "width": 97,
+      "height": 10
+    }
+  ]
+}

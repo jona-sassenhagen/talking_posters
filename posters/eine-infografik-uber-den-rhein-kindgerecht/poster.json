@@ -1,0 +1,73 @@
+{
+  "id": "eine-infografik-uber-den-rhein-kindgerecht",
+  "title": "Eine Infografik über den Rhein (kindgerecht)",
+  "prompt": "Eine Infografik über den Rhein (kindgerecht)",
+  "image": "/poster-assets/eine-infografik-uber-den-rhein-kindgerecht/poster.png",
+  "createdAt": "2026-05-05T23:30:58Z",
+  "language": "de-DE",
+  "sections": [
+    {
+      "id": "rhein-karte",
+      "label": "Rhein-Karte",
+      "text": "Die große Karte zeigt den Rhein als starken Fluss, der Menschen, Natur und Länder verbindet. Er kommt aus den Alpen, fließt an Orten wie Basel, Rüdesheim, Koblenz, Bonn, Köln, Duisburg und Kleve vorbei und erreicht schließlich die Niederlande und die Nordsee.",
+      "x": 27,
+      "y": 9,
+      "width": 43,
+      "height": 90
+    },
+    {
+      "id": "verlauf",
+      "label": "Verlauf",
+      "text": "Der Rhein entspringt in den Alpen in der Schweiz. Von dort fließt er durch mehrere Länder und verbindet viele Städte und Regionen. Nach ungefähr eintausendzweihundertdreißig Kilometern mündet er in die Nordsee.",
+      "x": 1,
+      "y": 13,
+      "width": 23,
+      "height": 29
+    },
+    {
+      "id": "tiere-am-rhein",
+      "label": "Tiere am Rhein",
+      "text": "Am Rhein und im Rhein leben viele Tiere. Dazu gehören Fische wie Lachs und Zander, Vögel wie Kormoran und Stockente, außerdem Biber und Flussmuscheln. Sie alle brauchen sauberes Wasser und passende Lebensräume am Ufer.",
+      "x": 71,
+      "y": 12,
+      "width": 28,
+      "height": 30
+    },
+    {
+      "id": "menschen-und-schiffe",
+      "label": "Menschen und Schiffe",
+      "text": "Der Rhein ist wichtig für Menschen und Wirtschaft. Schiffe bringen Waren zu vielen Orten. Viele Menschen leben, arbeiten und erholen sich am Rhein. Rad- und Wanderwege laden dazu ein, den Fluss und seine Landschaft zu entdecken.",
+      "x": 1,
+      "y": 43,
+      "width": 26,
+      "height": 29
+    },
+    {
+      "id": "geschichte-und-burgen",
+      "label": "Geschichte und Burgen",
+      "text": "Am Rhein stehen viele Burgen und Schlösser, die von früher erzählen. Früher bewachten manche Burgen den Fluss. Der Rhein war schon vor vielen hundert Jahren eine wichtige Handelsstraße. Heute besuchen viele Menschen die Burgen als Ausflugsziele.",
+      "x": 70,
+      "y": 43,
+      "width": 29,
+      "height": 31
+    },
+    {
+      "id": "schutz-des-flusses",
+      "label": "Schutz des Flusses",
+      "text": "Wir alle können den Rhein schützen. Müll gehört nicht in die Natur, und Wasser sparen hilft allen. Pflanzen und Tiere brauchen saubere Lebensräume, damit der Fluss auch in Zukunft gesund bleibt.",
+      "x": 1,
+      "y": 73,
+      "width": 27,
+      "height": 26
+    },
+    {
+      "id": "rhein-steckbrief",
+      "label": "Rhein-Steckbrief",
+      "text": "Im Rhein-Steckbrief steht: Der Rhein ist ungefähr eintausendzweihundertdreißig Kilometer lang. Seine Quelle liegt als Alpenrhein in der Schweiz, und seine Mündung ist die Nordsee. Er berührt oder verbindet Länder wie die Schweiz, Liechtenstein, Österreich, Deutschland, Frankreich und die Niederlande. Der Rhein ist einer der wichtigsten Flüsse Europas.",
+      "x": 63,
+      "y": 75,
+      "width": 36,
+      "height": 23
+    }
+  ]
+}

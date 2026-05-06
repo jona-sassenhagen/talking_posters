@@ -1,0 +1,55 @@
+{
+  "id": "eine-infografik-uber-eisbaren",
+  "title": "Eine Infografik über Eisbären",
+  "prompt": "Eine Infografik über Eisbären",
+  "image": "/poster-assets/eine-infografik-uber-eisbaren/poster.png",
+  "createdAt": "2026-05-05T22:45:00.000Z",
+  "language": "de-DE",
+  "sections": [
+    {
+      "id": "lebensraum",
+      "label": "Lebensraum",
+      "text": "Eisbären sind Meister der Arktis und leben in den arktischen Regionen rund um den Nordpol. Das Packeis ist für sie eine wichtige Jagdplattform. Sie bewegen sich entlang von Küsten, Inseln und Schelfeis und sind stark vom Meereis abhängig.",
+      "x": 2,
+      "y": 17,
+      "width": 38,
+      "height": 42
+    },
+    {
+      "id": "jagd",
+      "label": "Jagd",
+      "text": "Eisbären sind geduldige Jäger und perfekt an das Eis angepasst. Sie lauern an Atemlöchern im Eis und schlagen blitzschnell zu, wenn sich Beute nähert. Ihre wichtigste Beute sind Robben, besonders Ringelrobben. Zusätzlich können auch Aas, Fische, Vögel und Beeren auf ihrem Speiseplan stehen.",
+      "x": 61,
+      "y": 17,
+      "width": 37,
+      "height": 42
+    },
+    {
+      "id": "korper",
+      "label": "Körper",
+      "text": "Der Körper des Eisbären ist perfekt für das Leben in der Kälte gebaut. Sein dichtes, hohles Fell isoliert und hält warm. Die schwarze Haut nimmt Wärme von der Sonne auf. Eine dicke Speckschicht von bis zu zehn Zentimetern dient als Isolierung und Energiespeicher. Die großen Pfoten verteilen das Gewicht, geben Halt auf dem Eis und machen Eisbären zu starken Schwimmern.",
+      "x": 2,
+      "y": 60,
+      "width": 30,
+      "height": 38
+    },
+    {
+      "id": "steckbrief",
+      "label": "Steckbrief",
+      "text": "Im Steckbrief heißt der Eisbär wissenschaftlich Ursus maritimus. Ausgewachsene Tiere wiegen etwa dreihundert bis siebenhundert Kilogramm. Sie werden ungefähr zwei bis zweieinhalb Meter lang und erreichen meist eine Lebenserwartung von zwanzig bis fünfundzwanzig Jahren.",
+      "x": 38,
+      "y": 79,
+      "width": 22,
+      "height": 19
+    },
+    {
+      "id": "klima",
+      "label": "Klima",
+      "text": "Der Klimawandel ist die größte Bedrohung für Eisbären. Wenn das Meereis schmilzt, verkürzen sich ihre Jagdzeit und der Zugang zu Beute. Gleichzeitig nehmen Stürme und Wärmeperioden zu. Weniger Eis bedeutet weniger Nahrung und häufig auch weniger Nachwuchs. Deshalb sind Klimaschutz und der Schutz ihres Lebensraums entscheidend für die Zukunft der Eisbären.",
+      "x": 64,
+      "y": 61,
+      "width": 34,
+      "height": 36
+    }
+  ]
+}

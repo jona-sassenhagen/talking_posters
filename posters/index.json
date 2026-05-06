@@ -1,0 +1,35 @@
+{
+  "posters": [
+    {
+      "id": "eine-infografik-uber-den-rhein-kindgerecht",
+      "title": "Eine Infografik über den Rhein (kindgerecht)",
+      "prompt": "Eine Infografik über den Rhein (kindgerecht)",
+      "image": "/poster-assets/eine-infografik-uber-den-rhein-kindgerecht/poster.png",
+      "createdAt": "2026-05-05T23:30:58Z",
+      "language": "de-DE"
+    },
+    {
+      "id": "eine-infografik-uber-nasas-artemis-programm",
+      "title": "Eine Infografik über NASAs Artemis-Programm",
+      "prompt": "Eine Infografik über NASAs Artemis-Programm",
+      "image": "/poster-assets/eine-infografik-uber-nasas-artemis-programm/poster.png",
+      "createdAt": "2026-05-05T23:25:40Z",
+      "language": "de-DE"
+    },
+    {
+      "id": "eine-infografik-uber-kaninchen",
+      "title": "Eine Infografik über Kaninchen",
+      "prompt": "Eine Infografik über Kaninchen",
+      "image": "/poster-assets/eine-infografik-uber-kaninchen/poster.png",
+      "createdAt": "2026-05-05T23:10:51.000Z"
+    },
+    {
+      "id": "eine-infografik-uber-eisbaren",
+      "title": "Eine Infografik über Eisbären",
+      "prompt": "Eine Infografik über Eisbären",
+      "image": "/poster-assets/eine-infografik-uber-eisbaren/poster.png",
+      "createdAt": "2026-05-05T22:45:00.000Z",
+      "language": "de-DE"
+    }
+  ]
+}

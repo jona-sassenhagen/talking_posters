@@ -1,0 +1,30 @@
+{
+  "name": "talking-poster",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx server/index.ts",
+    "build": "tsc && vite build",
+    "build:pages": "tsc && VITE_STATIC_POSTERS=true vite build --base ./ && node scripts/prepare-pages.mjs",
+    "start": "NODE_ENV=production tsx server/index.ts",
+    "generate": "bash scripts/make-poster.sh",
+    "audio": "tsx scripts/generate-audio.ts"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.1.1",
+    "express": "^5.1.0",
+    "lucide-react": "^0.556.0",
+    "vite": "^7.2.7",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.0.1",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
