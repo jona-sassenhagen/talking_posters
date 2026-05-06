@@ -236,6 +236,7 @@ h1 {
   width: 100%;
   min-height: 100vh;
   padding: 0;
+  overflow: auto;
 }
 
 .viewer-controls {
@@ -243,6 +244,8 @@ h1 {
   top: 16px;
   left: 16px;
   z-index: 10;
+  display: grid;
+  gap: 8px;
 }
 
 .icon-button {
@@ -271,9 +274,10 @@ h1 {
 
 .poster-stage {
   position: relative;
-  width: min(100%, 1024px);
-  margin: 0 auto;
+  max-width: none;
+  margin: 20px auto;
   background: #fff;
+  box-shadow: 0 12px 28px rgba(21, 21, 21, 0.22);
 }
 
 .poster-image {
@@ -352,6 +356,10 @@ h1 {
   .viewer-controls {
     top: 10px;
     left: 10px;
+  }
+
+  .poster-stage {
+    margin: 12px auto;
   }
 }
 

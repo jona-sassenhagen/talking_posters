@@ -1,6 +1,6 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
-import { ArrowLeft, ImageIcon, Loader2, Trash2 } from "lucide-react";
+import { ArrowLeft, ImageIcon, Loader2, Maximize2, Trash2, ZoomIn, ZoomOut } from "lucide-react";
 import type { Poster, PosterIndex, PosterSection, PosterSummary } from "../shared/types";
 import "./styles.css";
 
@@ -33,6 +33,9 @@ const translations: Record<
     confirmDelete: (title: string) => string;
     deleteLabel: (title: string) => string;
     readSection: (label: string) => string;
+    zoomIn: string;
+    zoomOut: string;
+    resetZoom: string;
   }
 > = {
   de: {
@@ -50,7 +53,10 @@ const translations: Record<
     deleteTitle: "Poster löschen",
     confirmDelete: (title) => `"${title}" löschen? Dadurch werden Posterdateien und erzeugte Audiodateien entfernt.`,
     deleteLabel: (title) => `${title} löschen`,
-    readSection: (label) => `Text vorlesen: ${label}`
+    readSection: (label) => `Text vorlesen: ${label}`,
+    zoomIn: "Vergrößern",
+    zoomOut: "Verkleinern",
+    resetZoom: "An Bildschirm anpassen"
   },
   en: {
     title: "Talking Posters",
@@ -67,7 +73,10 @@ const translations: Record<
     deleteTitle: "Delete poster",
     confirmDelete: (title) => `Delete "${title}"? This removes the poster files and generated audio.`,
     deleteLabel: (title) => `Delete ${title}`,
-    readSection: (label) => `Read text: ${label}`
+    readSection: (label) => `Read text: ${label}`,
+    zoomIn: "Zoom in",
+    zoomOut: "Zoom out",
+    resetZoom: "Fit to screen"
   },
   uk: {
     title: "Постери, що говорять",
@@ -84,7 +93,10 @@ const translations: Record<
     deleteTitle: "Видалити постер",
     confirmDelete: (title) => `Видалити "${title}"? Це прибере файли постера та створені аудіофайли.`,
     deleteLabel: (title) => `Видалити ${title}`,
-    readSection: (label) => `Прочитати текст: ${label}`
+    readSection: (label) => `Прочитати текст: ${label}`,
+    zoomIn: "Збільшити",
+    zoomOut: "Зменшити",
+    resetZoom: "Вмістити на екрані"
   }
 };
 
@@ -240,11 +252,22 @@ async function formatDeleteError(response: Response) {
 function PosterView({ id, locale, navigate }: { id: string; locale: Locale; navigate: (to: string) => void }) {
   const poster = useJson<Poster>(posterJsonUrl(id));
   const [activeId, setActiveId] = React.useState<string | null>(null);
+  const [zoom, setZoom] = React.useState(1);
+  const [imageAspect, setImageAspect] = React.useState(1055 / 1491);
+  const viewport = useViewportSize();
   const audioRef = React.useRef<HTMLAudioElement | null>(null);
+  const t = translations[locale];
+  const viewerMargin = viewport.width < 560 ? 12 : 20;
+  const fitWidth = Math.max(280, Math.min(viewport.width - viewerMargin * 2, (viewport.height - viewerMargin * 2) * imageAspect));
+  const posterWidth = Math.round(fitWidth * zoom);
 
   React.useEffect(() => {
     return () => audioRef.current?.pause();
   }, []);
+
+  function changeZoom(delta: number) {
+    setZoom((current) => clamp(Math.round((current + delta) * 100) / 100, 0.5, 3));
+  }
 
   async function playSection(section: PosterSection) {
     if (poster.status !== "ready") {
@@ -267,16 +290,35 @@ function PosterView({ id, locale, navigate }: { id: string; locale: Locale; navi
   return (
     <main className="viewer-shell">
       <div className="viewer-controls">
-        <button className="icon-button" onClick={() => navigate(`/${locale}`)} aria-label={translations[locale].backToGallery} title={translations[locale].backToGallery}>
+        <button className="icon-button" onClick={() => navigate(`/${locale}`)} aria-label={t.backToGallery} title={t.backToGallery}>
           <ArrowLeft aria-hidden="true" />
+        </button>
+        <button className="icon-button" onClick={() => changeZoom(-0.15)} aria-label={t.zoomOut} title={t.zoomOut}>
+          <ZoomOut aria-hidden="true" />
+        </button>
+        <button className="icon-button" onClick={() => setZoom(1)} aria-label={t.resetZoom} title={t.resetZoom}>
+          <Maximize2 aria-hidden="true" />
+        </button>
+        <button className="icon-button" onClick={() => changeZoom(0.15)} aria-label={t.zoomIn} title={t.zoomIn}>
+          <ZoomIn aria-hidden="true" />
         </button>
       </div>
 
-      {poster.status === "loading" && <Loading label={translations[locale].loadingPoster} />}
+      {poster.status === "loading" && <Loading label={t.loadingPoster} />}
       {poster.status === "error" && <ErrorBox message={poster.error} />}
       {poster.status === "ready" && (
-        <section className="poster-stage" aria-label={`${poster.data.title} interactive poster`}>
-          <img className="poster-image" src={assetUrl(poster.data.image)} alt={poster.data.title} />
+        <section className="poster-stage" style={{ width: `${posterWidth}px` }} aria-label={`${poster.data.title} interactive poster`}>
+          <img
+            className="poster-image"
+            src={assetUrl(poster.data.image)}
+            alt={poster.data.title}
+            onLoad={(event) => {
+              const image = event.currentTarget;
+              if (image.naturalWidth > 0 && image.naturalHeight > 0) {
+                setImageAspect(image.naturalWidth / image.naturalHeight);
+              }
+            }}
+          />
           {poster.data.sections.map((section) => (
             <button
               key={section.id}
@@ -290,7 +332,7 @@ function PosterView({ id, locale, navigate }: { id: string; locale: Locale; navi
               onClick={() => playSection(section)}
               onFocus={() => setActiveId(section.id)}
               onMouseEnter={() => setActiveId(section.id)}
-              aria-label={translations[locale].readSection(section.label)}
+              aria-label={t.readSection(section.label)}
               title={section.label}
             />
           ))}
@@ -298,6 +340,26 @@ function PosterView({ id, locale, navigate }: { id: string; locale: Locale; navi
       )}
     </main>
   );
+}
+
+function useViewportSize() {
+  const [size, setSize] = React.useState(() => ({
+    width: typeof window === "undefined" ? 1024 : window.innerWidth,
+    height: typeof window === "undefined" ? 768 : window.innerHeight
+  }));
+
+  React.useEffect(() => {
+    const update = () => setSize({ width: window.innerWidth, height: window.innerHeight });
+    update();
+    window.addEventListener("resize", update);
+    return () => window.removeEventListener("resize", update);
+  }, []);
+
+  return size;
+}
+
+function clamp(value: number, min: number, max: number) {
+  return Math.min(max, Math.max(min, value));
 }
 
 function parseRoute(path: string): { kind: "gallery"; locale: Locale } | { kind: "poster"; locale: Locale; id: string } {
