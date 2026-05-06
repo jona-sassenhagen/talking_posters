@@ -1,6 +1,14 @@
 {
   "posters": [
     {
+      "id": "eine-infografik-uber-schmetterlinge-fur-kinder",
+      "title": "Eine Infografik über Schmetterlinge für Kinder",
+      "prompt": "Eine Infografik über Schmetterlinge, für Kinder",
+      "image": "/poster-assets/eine-infografik-uber-schmetterlinge-fur-kinder/poster.png",
+      "createdAt": "2026-05-06T17:03:12Z",
+      "language": "de-DE"
+    },
+    {
       "id": "planety-soniachnoi-systemy",
       "title": "Планети Сонячної системи",
       "prompt": "Українська інфографіка про планети Сонячної системи",

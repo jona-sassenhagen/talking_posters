@@ -1,0 +1,64 @@
+{
+  "id": "eine-infografik-uber-schmetterlinge-fur-kinder",
+  "title": "Eine Infografik über Schmetterlinge für Kinder",
+  "prompt": "Eine Infografik über Schmetterlinge, für Kinder",
+  "image": "/poster-assets/eine-infografik-uber-schmetterlinge-fur-kinder/poster.png",
+  "createdAt": "2026-05-06T17:03:12Z",
+  "language": "de-DE",
+  "sections": [
+    {
+      "id": "was-ist-ein-schmetterling",
+      "label": "Was ist ein Schmetterling?",
+      "text": "Schmetterlinge sind Insekten. Sie haben sechs Beine, zwei Fühler und meistens bunte Flügel. Viele Schmetterlingsarten leben auf der ganzen Welt und besuchen Blüten, Wiesen und Gärten.",
+      "x": 2,
+      "y": 18,
+      "width": 27,
+      "height": 31
+    },
+    {
+      "id": "korper",
+      "label": "Körper",
+      "text": "Der Körper eines Schmetterlings besteht aus drei Hauptteilen. Die Fühler helfen beim Riechen und Tasten. Am Kopf sitzen die Augen und der Saugrüssel. An der Brust sind Beine und Flügel befestigt, und der Hinterleib enthält wichtige Organe.",
+      "x": 73,
+      "y": 18,
+      "width": 25,
+      "height": 31
+    },
+    {
+      "id": "lebenszyklus",
+      "label": "Lebenszyklus",
+      "text": "Schmetterlinge durchlaufen vier spannende Entwicklungsstufen. Zuerst legt das Weibchen winzige Eier auf Pflanzen. Aus dem Ei schlüpft eine Raupe, die viel frisst und wächst. Danach verpuppt sich die Raupe und verwandelt sich im Inneren. Aus der Puppe schlüpft schließlich der fertige Schmetterling, bereit zum Fliegen.",
+      "x": 2,
+      "y": 50,
+      "width": 96,
+      "height": 20
+    },
+    {
+      "id": "nahrung",
+      "label": "Nahrung",
+      "text": "Schmetterlinge trinken Nektar mit ihrem Saugrüssel. Gute Nektarquellen sind zum Beispiel Lavendel, Schmetterlingsflieder, Klee und Sonnenhut. Solche Blüten geben ihnen Energie zum Fliegen.",
+      "x": 2,
+      "y": 71,
+      "width": 29,
+      "height": 26
+    },
+    {
+      "id": "lebensraum",
+      "label": "Lebensraum",
+      "text": "Schmetterlinge brauchen blühende Pflanzen, sonnige Plätze und versteckte Rückzugsorte. Sie mögen sonnige und warme Bereiche, blütenreiche Wiesen sowie Hecken und andere geschützte Orte.",
+      "x": 32,
+      "y": 71,
+      "width": 31,
+      "height": 26
+    },
+    {
+      "id": "schutz",
+      "label": "Schutz",
+      "text": "Wir alle können helfen, Schmetterlinge zu schützen. Pflanzt viele blühende Pflanzen, verzichtet auf Pestizide und lasst wilde Ecken im Garten stehen. So schützen wir die Natur für uns und für die Schmetterlinge.",
+      "x": 64,
+      "y": 71,
+      "width": 34,
+      "height": 26
+    }
+  ]
+}
