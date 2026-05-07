@@ -1,0 +1,73 @@
+{
+  "id": "eine-infografik-uber-katzen-fur-kinder",
+  "title": "Eine Infografik über Katzen für Kinder",
+  "prompt": "Eine Infografik über Katzen, für Kinder",
+  "image": "/poster-assets/eine-infografik-uber-katzen-fur-kinder/poster.png",
+  "createdAt": "2026-05-07T07:58:48Z",
+  "language": "de-DE",
+  "sections": [
+    {
+      "id": "korper",
+      "label": "Körper",
+      "text": "Der Körper einer Katze ist sehr geschickt gebaut. Bewegliche Ohren helfen ihr, Geräusche genau zu orten. Mit den Schnurrhaaren tastet sie die Umgebung ab. Der schlanke, muskulöse Körper macht schnelle Bewegungen möglich. Ein starker Schwanz hilft beim Balancieren, und weiche Pfoten mit Ballen lassen Katzen leise und sicher laufen.",
+      "x": 1.5,
+      "y": 13.5,
+      "width": 31.5,
+      "height": 28
+    },
+    {
+      "id": "sinne",
+      "label": "Sinne",
+      "text": "Katzen haben besonders feine Sinne. Sie sehen auch bei wenig Licht sehr gut. Sie hören hohe Töne und leise Geräusche. Ihr Geruchssinn ist sehr fein. Die Schnurrhaare spüren Luftbewegungen und Hindernisse. Beim Schmecken mögen Katzen es nicht besonders süß, aber dafür oft herzhaft.",
+      "x": 70,
+      "y": 14,
+      "width": 28.5,
+      "height": 29
+    },
+    {
+      "id": "verhalten",
+      "label": "Verhalten",
+      "text": "Katzen zeigen viele typische Verhaltensweisen. Sie strecken sich und gähnen, um sich zu entspannen. Beim Spielen bleiben sie fit und üben ihre Jagdfähigkeiten. Zum Ruhen schlafen Katzen oft zwölf bis sechzehn Stunden am Tag, damit sie neue Energie sammeln. Weil sie neugierig sind, erkunden sie gern ihre Umgebung und beobachten alles genau.",
+      "x": 1.5,
+      "y": 44,
+      "width": 31,
+      "height": 22
+    },
+    {
+      "id": "nahrung",
+      "label": "Nahrung",
+      "text": "Katzen sind Fleischfresser. Für ein gesundes Leben brauchen sie tierisches Eiweiß. Auf dem Poster stehen Fleisch, Geflügel und Fisch als Beispiele für passende Nahrung. Besonders wichtig ist außerdem, dass immer frisches Wasser für die Katze bereitsteht.",
+      "x": 70,
+      "y": 45.5,
+      "width": 28.5,
+      "height": 20.5
+    },
+    {
+      "id": "sprache-der-katze",
+      "label": "Sprache der Katze",
+      "text": "Die Körpersprache einer Katze verrät viel über ihre Stimmung. Wenn der Schwanz hoch steht, ist sie meist glücklich und freundlich. Langsames Blinzeln bedeutet: Ich vertraue dir. Ein tief getragener Schwanz kann zeigen, dass die Katze unsicher oder ängstlich ist. Wenn sich das Fell sträubt, hat die Katze Angst oder fühlt sich bedroht.",
+      "x": 1.5,
+      "y": 68,
+      "width": 33,
+      "height": 27
+    },
+    {
+      "id": "pflege",
+      "label": "Pflege",
+      "text": "Gute Pflege hält Katzen gesund und zufrieden. Regelmäßiges Bürsten entfernt lose Haare und pflegt das Fell. Die Krallen sollten kontrolliert und bei Bedarf gekürzt werden. Ohren und Augen müssen sauber gehalten und auf Veränderungen geprüft werden. Auch ein sauberes Katzenklo ist wichtig. Mit Liebe, Aufmerksamkeit und einem sicheren Platz fühlen sich Katzen rundum glücklich.",
+      "x": 36,
+      "y": 67.5,
+      "width": 28,
+      "height": 27
+    },
+    {
+      "id": "katzenbaby",
+      "label": "Katzenbaby",
+      "text": "Katzenbabys heißen Kätzchen und wachsen schnell heran. In den ersten null bis zwei Wochen sind sie blind und taub und brauchen Mama und Wärme. Mit zwei bis vier Wochen öffnen sich die Augen, und die Kätzchen werden neugierig und wackelig. Mit vier bis acht Wochen spielen sie, fressen festes Futter und lernen viel. Ab acht Wochen sind sie bereit für ein neues Zuhause und viele große Abenteuer.",
+      "x": 66,
+      "y": 68,
+      "width": 32.5,
+      "height": 27
+    }
+  ]
+}

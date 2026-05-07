@@ -1,6 +1,14 @@
 {
   "posters": [
     {
+      "id": "eine-infografik-uber-katzen-fur-kinder",
+      "title": "Eine Infografik über Katzen für Kinder",
+      "prompt": "Eine Infografik über Katzen, für Kinder",
+      "image": "/poster-assets/eine-infografik-uber-katzen-fur-kinder/poster.png",
+      "createdAt": "2026-05-07T07:58:48Z",
+      "language": "de-DE"
+    },
+    {
       "id": "eine-infografik-uber-schmetterlinge-fur-kinder",
       "title": "Eine Infografik über Schmetterlinge für Kinder",
       "prompt": "Eine Infografik über Schmetterlinge, für Kinder",
