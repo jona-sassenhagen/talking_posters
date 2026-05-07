@@ -1,6 +1,14 @@
 {
   "posters": [
     {
+      "id": "eine-infografik-uber-elefanten-fur-kinder",
+      "title": "Eine Infografik über Elefanten für Kinder",
+      "prompt": "Eine Infografik über Elefanten, für Kinder",
+      "image": "/poster-assets/eine-infografik-uber-elefanten-fur-kinder/poster.png",
+      "createdAt": "2026-05-07T09:34:12Z",
+      "language": "de-DE"
+    },
+    {
       "id": "eine-infografik-uber-katzen-fur-kinder",
       "title": "Eine Infografik über Katzen für Kinder",
       "prompt": "Eine Infografik über Katzen, für Kinder",

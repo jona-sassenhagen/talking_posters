@@ -1,0 +1,109 @@
+{
+  "id": "eine-infografik-uber-elefanten-fur-kinder",
+  "title": "Eine Infografik über Elefanten für Kinder",
+  "prompt": "Eine Infografik über Elefanten, für Kinder",
+  "image": "/poster-assets/eine-infografik-uber-elefanten-fur-kinder/poster.png",
+  "createdAt": "2026-05-07T09:34:12Z",
+  "language": "de-DE",
+  "sections": [
+    {
+      "id": "titel",
+      "label": "Elefanten",
+      "text": "Diese Infografik heißt Elefanten. Sie stellt Elefanten als sanfte Riesen mit großem Herzen vor und zeigt, wie spannend diese großen Tiere sind.",
+      "x": 14,
+      "y": 1,
+      "width": 72,
+      "height": 12
+    },
+    {
+      "id": "korper",
+      "label": "Körper",
+      "text": "Elefanten sind die größten Landsäugetiere der Erde. Sie können bis zu vier Meter groß und ungefähr sechs Tonnen schwer werden. Ihre Haut ist dick, grau und faltig. Viele Elefanten werden etwa sechzig bis siebzig Jahre alt.",
+      "x": 2,
+      "y": 14,
+      "width": 24,
+      "height": 31
+    },
+    {
+      "id": "russel",
+      "label": "Rüssel",
+      "text": "Der Rüssel ist für den Elefanten Nase, Hand und Werkzeug in einem. Elefanten riechen und atmen damit, trinken Wasser, heben Dinge auf und duschen sich mit dem Rüssel.",
+      "x": 72,
+      "y": 14,
+      "width": 26,
+      "height": 19
+    },
+    {
+      "id": "ohren",
+      "label": "Ohren",
+      "text": "Die großen Ohren helfen Elefanten, ihren Körper zu kühlen. Sie fächeln Luft zu sich und halten die Tiere auch an heißen Tagen angenehm kühl.",
+      "x": 71,
+      "y": 33,
+      "width": 27,
+      "height": 16
+    },
+    {
+      "id": "stosszahne",
+      "label": "Stoßzähne",
+      "text": "Stoßzähne sind lange Zähne, die ein Leben lang wachsen. Elefanten benutzen sie zum Graben, Tragen, Schützen und zur Verteidigung.",
+      "x": 70,
+      "y": 49,
+      "width": 28,
+      "height": 16
+    },
+    {
+      "id": "familie",
+      "label": "Familie",
+      "text": "Elefanten leben in Herden. Angeführt wird die Herde von der ältesten und erfahrensten Elefantenkuh. Die Tiere kümmern sich liebevoll umeinander und beschützen die Kleinen.",
+      "x": 2,
+      "y": 49,
+      "width": 25,
+      "height": 22
+    },
+    {
+      "id": "wusstest-du",
+      "label": "Wusstest du?",
+      "text": "Wusstest du, dass Elefanten mit ihrem Rüssel über vierzigtausend Muskeln bewegen können? Dadurch ist der Rüssel besonders kräftig und zugleich sehr geschickt.",
+      "x": 42,
+      "y": 61,
+      "width": 18,
+      "height": 11
+    },
+    {
+      "id": "nahrung",
+      "label": "Nahrung",
+      "text": "Elefanten sind Pflanzenfresser. Sie fressen Gras, Blätter, Zweige, Rinde, Früchte und Wurzeln. Ein Elefant frisst bis zu hundertfünfzig Kilogramm Nahrung am Tag.",
+      "x": 2,
+      "y": 72,
+      "width": 24,
+      "height": 26
+    },
+    {
+      "id": "lebensraum",
+      "label": "Lebensraum",
+      "text": "Elefanten leben in Afrika und in Teilen Asiens. Man findet sie in Savannen, Wäldern und nahe bei Flüssen, wo sie Nahrung, Wasser und Platz zum Wandern finden.",
+      "x": 27,
+      "y": 72,
+      "width": 24,
+      "height": 26
+    },
+    {
+      "id": "elefantenbaby",
+      "label": "Elefantenbaby",
+      "text": "Ein Elefantenbaby heißt Kalb. Es wird nach etwa zweiundzwanzig Monaten Tragezeit geboren. Kälber bleiben mehrere Jahre bei ihrer Mutter und lernen viel von ihr und der Herde.",
+      "x": 52,
+      "y": 72,
+      "width": 22,
+      "height": 26
+    },
+    {
+      "id": "schutz",
+      "label": "Schutz",
+      "text": "Elefanten sind durch Lebensraumverlust und Wilderei bedroht. Wir können helfen, indem wir die Natur schützen und respektvoll mit Tieren umgehen. So handeln wir gemeinsam für die sanften Riesen.",
+      "x": 75,
+      "y": 72,
+      "width": 23,
+      "height": 26
+    }
+  ]
+}
