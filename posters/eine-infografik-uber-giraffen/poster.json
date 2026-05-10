@@ -1,0 +1,82 @@
+{
+  "id": "eine-infografik-uber-giraffen",
+  "title": "Eine Infografik über Giraffen",
+  "prompt": "Eine Infografik über Giraffen",
+  "image": "/poster-assets/eine-infografik-uber-giraffen/poster.png",
+  "createdAt": "2026-05-10T17:56:08Z",
+  "language": "de-DE",
+  "sections": [
+    {
+      "id": "ueberblick",
+      "label": "Überblick",
+      "text": "Giraffen sind die sanften Riesen der Savanne. Sie sind die größten Landtiere der Erde und fallen durch ihren sehr langen Hals, ihre langen Beine und ihr einzigartiges Fleckenmuster auf.",
+      "x": 31,
+      "y": 2,
+      "width": 33,
+      "height": 66
+    },
+    {
+      "id": "steckbrief",
+      "label": "Steckbrief",
+      "text": "Im Steckbrief heißt die Giraffe wissenschaftlich Giraffa camelopardalis. Sie gehört zur Ordnung der Säugetiere und zur Familie der Giraffenartigen. Ausgewachsene Giraffen werden etwa viereinhalb bis fünfeinhalb Meter groß und wiegen ungefähr siebenhundert bis eintausendzweihundert Kilogramm. In freier Wildbahn erreichen sie meist ein Alter von zwanzig bis fünfundzwanzig Jahren. Sie leben in Afrika südlich der Sahara und gelten laut IUCN als gefährdet.",
+      "x": 2,
+      "y": 13,
+      "width": 27,
+      "height": 30
+    },
+    {
+      "id": "koerperbau",
+      "label": "Körperbau",
+      "text": "Der Körperbau der Giraffe ist auf das Leben in der Savanne spezialisiert. Ihre Hörner, die Ossicone heißen, sind mit Haut überzogene Knochenzapfen. Die großen Augen sitzen seitlich und geben ihr ein weites Sichtfeld. Der lange Hals hat sieben Halswirbel, wie beim Menschen. Ein starkes Herz pumpt Blut bis in den Kopf gegen die Schwerkraft. Die Vorderbeine sind etwas länger als die Hinterbeine, und das Fleckenmuster ist bei jedem Tier einzigartig wie ein Fingerabdruck.",
+      "x": 65,
+      "y": 2,
+      "width": 33,
+      "height": 39
+    },
+    {
+      "id": "lebensraum",
+      "label": "Lebensraum",
+      "text": "Giraffen leben in offenen Savannen, lichten Wäldern und Buschlandschaften. Sie bevorzugen warme Regionen und halten sich oft in der Nähe von Wasserstellen auf. Ihr Verbreitungsgebiet liegt in vielen Ländern Afrikas südlich der Sahara.",
+      "x": 2,
+      "y": 44,
+      "width": 27,
+      "height": 24
+    },
+    {
+      "id": "nahrung",
+      "label": "Nahrung",
+      "text": "Giraffen fressen vor allem Blätter, Triebe, Knospen, Blüten und Früchte. Besonders gern nutzen sie Akazien, die einen großen Teil ihrer Nahrung ausmachen. Als Wiederkäuer haben sie vier Mägen und können dadurch harte, faserreiche Pflanzen besonders gut verdauen.",
+      "x": 65,
+      "y": 42,
+      "width": 33,
+      "height": 26
+    },
+    {
+      "id": "verhalten",
+      "label": "Verhalten",
+      "text": "Giraffen sind meist tagaktiv und ruhen nur wenige Stunden am Tag. Sie leben in lockeren Gruppen von etwa zehn bis zwanzig Tieren. Zur Verständigung nutzen sie tiefe Infraschall-Laute, die über große Entfernungen getragen werden. Trotz ihrer Größe können sie schnell laufen und auf kurzen Strecken bis zu sechzig Kilometer pro Stunde erreichen.",
+      "x": 2,
+      "y": 70,
+      "width": 27,
+      "height": 24
+    },
+    {
+      "id": "nachwuchs",
+      "label": "Nachwuchs",
+      "text": "Nach einer Tragzeit von ungefähr fünfzehn Monaten kommt bei Giraffen meist ein einzelnes Junges zur Welt. Neugeborene sind bereits etwa eineinhalb bis zwei Meter groß und wiegen ungefähr fünfzig bis siebzig Kilogramm. Schon nach wenigen Stunden stehen sie auf und folgen der Mutter in der Herde. Die Mutter kümmert sich mehrere Monate liebevoll um ihr Junges.",
+      "x": 31,
+      "y": 70,
+      "width": 33,
+      "height": 24
+    },
+    {
+      "id": "schutz",
+      "label": "Schutz",
+      "text": "Giraffen sind durch Lebensraumverlust, Wilderei und Konflikte mit Menschen bedroht. Wir können helfen, indem Lebensräume geschützt und erhalten werden, Wilderei bekämpft wird und mehr Bewusstsein für nachhaltiges Handeln entsteht. Jede Giraffe zählt.",
+      "x": 65,
+      "y": 70,
+      "width": 33,
+      "height": 24
+    }
+  ]
+}

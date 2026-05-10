@@ -1,6 +1,30 @@
 {
   "posters": [
     {
+      "id": "eine-infografik-uber-pferde",
+      "title": "Eine Infografik über Pferde",
+      "prompt": "Eine Infografik über Pferde",
+      "image": "/poster-assets/eine-infografik-uber-pferde/poster.png",
+      "createdAt": "2026-05-10T18:09:38Z",
+      "language": "de-DE"
+    },
+    {
+      "id": "eine-infografik-uber-dackel",
+      "title": "Eine Infografik über Dackel",
+      "prompt": "Eine Infografik über Dackel",
+      "image": "/poster-assets/eine-infografik-uber-dackel/poster.png",
+      "createdAt": "2026-05-10T18:06:04Z",
+      "language": "de-DE"
+    },
+    {
+      "id": "eine-infografik-uber-giraffen",
+      "title": "Eine Infografik über Giraffen",
+      "prompt": "Eine Infografik über Giraffen",
+      "image": "/poster-assets/eine-infografik-uber-giraffen/poster.png",
+      "createdAt": "2026-05-10T17:56:08Z",
+      "language": "de-DE"
+    },
+    {
       "id": "eine-infografik-uber-elefanten-fur-kinder",
       "title": "Eine Infografik über Elefanten für Kinder",
       "prompt": "Eine Infografik über Elefanten, für Kinder",

@@ -1,0 +1,91 @@
+{
+  "id": "eine-infografik-uber-pferde",
+  "title": "Eine Infografik über Pferde",
+  "prompt": "Eine Infografik über Pferde",
+  "image": "/poster-assets/eine-infografik-uber-pferde/poster.png",
+  "createdAt": "2026-05-10T18:09:38Z",
+  "language": "de-DE",
+  "sections": [
+    {
+      "id": "ueberblick",
+      "label": "Überblick",
+      "text": "Pferde stehen auf dem Poster als edle Partner mit Herz und Stärke im Mittelpunkt. Das große Pferd zeigt den kräftigen, beweglichen Körperbau, durch den Pferde seit langer Zeit Reit-, Arbeits-, Sport- und Begleittiere des Menschen sind.",
+      "x": 28,
+      "y": 1,
+      "width": 43,
+      "height": 54
+    },
+    {
+      "id": "steckbrief",
+      "label": "Steckbrief",
+      "text": "Das Pferd ist ein Säugetier aus der Familie der Pferde. Sein wissenschaftlicher Name ist Equus ferus caballus. Pferde erreichen am Stockmaß meist etwa einhundertvierzig bis einhundertsiebzig Zentimeter, wiegen ungefähr vierhundert bis siebenhundert Kilogramm und werden etwa fünfundzwanzig bis dreißig Jahre alt. Die Tragzeit beträgt elf Monate. Pferde sind Herdentiere, kommen weltweit vor und besitzen als Besonderheit keine Schlüsselbeine.",
+      "x": 1,
+      "y": 1,
+      "width": 26,
+      "height": 34
+    },
+    {
+      "id": "koerperbau",
+      "label": "Körperbau",
+      "text": "Der Körperbau des Pferdes ist auf Kraft, Ausdauer und Bewegung ausgelegt. Am Kopf liegen Ohren, Nüstern und Hals, am Rumpf erkennt man Widerrist, Rücken, Kruppe, Brust und Schulter. Vorderbeine und Hinterbeine tragen das ganze Gewicht des Pferdes. Die Hufe schützen die empfindlichen Zehen und wirken wie Federn. Ein großes Herz und starke Lungen sorgen für Ausdauer.",
+      "x": 72,
+      "y": 1,
+      "width": 27,
+      "height": 37
+    },
+    {
+      "id": "sinne",
+      "label": "Sinne",
+      "text": "Pferde haben sehr ausgeprägte Sinne. Mit ihren Augen sehen sie ein großes Blickfeld von ungefähr dreihundertdreißig Grad und erkennen Bewegungen sehr gut. Ihr Gehör ist fein, und die Ohren lassen sich in alle Richtungen drehen. Der empfindliche Geruchssinn hilft bei der Futterwahl und bei der Kommunikation. Nüstern und Lippen sind tastempfindlich und helfen beim Erkunden.",
+      "x": 1,
+      "y": 36,
+      "width": 25,
+      "height": 25
+    },
+    {
+      "id": "gangarten",
+      "label": "Gangarten",
+      "text": "Pferde bewegen sich in mehreren Gangarten. Der Schritt ist die langsamste Gangart und ein Viertakt, bei dem immer ein Huf nach dem anderen aufsetzt. Der Trab ist ein Zweitakt, bei dem diagonale Beinpaare gemeinsam schwingen. Der Galopp ist ein Dreitakt mit Schwebephase und wirkt schnell und kraftvoll. Der Pass ist eine sehr langsame, hochbeinige Gangart mit vier Takten.",
+      "x": 73,
+      "y": 40,
+      "width": 26,
+      "height": 21
+    },
+    {
+      "id": "ernaehrung",
+      "label": "Ernährung",
+      "text": "Pferde sind Pflanzenfresser. Eine naturnahe Fütterung hält sie gesund. Heu und Gras bilden das Grundfutter und sollten immer zur Verfügung stehen. Kraftfutter wie Hafer und Mais kann je nach Leistung und Bedarf ergänzt werden. Frisches Wasser muss jederzeit frei zugänglich sein. Mineralien und Salz sind wichtig für Knochen, Muskeln und Stoffwechsel.",
+      "x": 27,
+      "y": 55,
+      "width": 33,
+      "height": 19
+    },
+    {
+      "id": "herde-und-verhalten",
+      "label": "Herde und Verhalten",
+      "text": "Pferde leben in Herden mit einer klaren Rangordnung. Als Fluchttiere haben sie einen starken Selbsterhaltungstrieb. Sie kommunizieren über Körpersprache, Wiehern und Mimik. Freundschaften und gegenseitige Fellpflege stärken den Zusammenhalt innerhalb der Gruppe.",
+      "x": 61,
+      "y": 61,
+      "width": 38,
+      "height": 18
+    },
+    {
+      "id": "lebensraum-und-pflege",
+      "label": "Lebensraum und Pflege",
+      "text": "Pferde brauchen Auslauf, tägliche Weidegänge oder andere regelmäßige Bewegung. Ein Unterstand schützt sie vor Regen, Wind und starker Sonne. Zur Hufpflege gehören regelmäßiges Auskratzen und Kontrollen. Bürsten fördert das Wohlbefinden und die Bindung zum Menschen. Impfungen, Entwurmung und regelmäßige Gesundheitskontrollen gehören ebenfalls zur guten Versorgung.",
+      "x": 1,
+      "y": 74,
+      "width": 48,
+      "height": 24
+    },
+    {
+      "id": "fohlen",
+      "label": "Fohlen",
+      "text": "Ein Fohlen kann meist schon nach ein bis zwei Stunden stehen und laufen. In den ersten Monaten ist Muttermilch die wichtigste Nahrungsquelle. Fohlen wachsen in der Herde auf und lernen durch Nachahmung und Spielen. Mit etwa sechs bis zwölf Monaten wird ein Fohlen langsam entwöhnt.",
+      "x": 50,
+      "y": 79,
+      "width": 49,
+      "height": 19
+    }
+  ]
+}

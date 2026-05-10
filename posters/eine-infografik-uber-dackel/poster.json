@@ -1,0 +1,82 @@
+{
+  "id": "eine-infografik-uber-dackel",
+  "title": "Eine Infografik über Dackel",
+  "prompt": "Eine Infografik über Dackel",
+  "image": "/poster-assets/eine-infografik-uber-dackel/poster.png",
+  "createdAt": "2026-05-10T18:06:04Z",
+  "language": "de-DE",
+  "sections": [
+    {
+      "id": "ueberblick",
+      "label": "Überblick",
+      "text": "Der Dackel ist ein kleiner Hund mit großem Herzen. Auf dem Poster steht er selbstbewusst im Mittelpunkt: lang gebaut, kurzbeinig und aufmerksam. Seine Gestalt erinnert daran, dass er ursprünglich für die Jagd unter der Erde gezüchtet wurde.",
+      "x": 30,
+      "y": 1,
+      "width": 40,
+      "height": 63
+    },
+    {
+      "id": "steckbrief",
+      "label": "Steckbrief",
+      "text": "Der Dackel stammt aus Deutschland und gehört in der FCI-Gruppe zu den Dachshunden. Es gibt Standarddackel, Zwergdackel und Kaninchendackel. Standarddackel werden etwa zwanzig bis siebenundzwanzig Zentimeter groß und wiegen sieben bis vierzehn Kilogramm, Zwergdackel erreichen vierzehn bis einundzwanzig Zentimeter und dreieinhalb bis fünf Kilogramm, und Kaninchendackel bleiben mit bis zu fünfzehn Zentimetern und bis dreieinhalb Kilogramm besonders klein. Dackel werden meist zwölf bis sechzehn Jahre alt. Früher jagten sie Dachse und Wild in Bauen, heute leben sie oft als Familienhunde, Begleiter, Spürnasen und sportliche Hunde.",
+      "x": 1,
+      "y": 1,
+      "width": 28,
+      "height": 36
+    },
+    {
+      "id": "koerperbau",
+      "label": "Körperbau",
+      "text": "Der Körperbau des Dackels ist unverwechselbar. Er hat einen langen Kopf mit wachem Blick, einen kräftigen Rücken mit gerader Linie und eine tiefe Brust für viel Ausdauer. Seine Beine sind kurz und stark, und die Rute verlängert optisch den Rücken. Typisch für den Dackel ist ein lang gestreckter, tiefbrüstiger, mutiger und ausdauernder Körper.",
+      "x": 71,
+      "y": 1,
+      "width": 28,
+      "height": 36
+    },
+    {
+      "id": "fell-und-farben",
+      "label": "Fell und Farben",
+      "text": "Dackel kommen in verschiedenen Fellarten vor: als Kurzhaar, Langhaar und Rauhaar. Auch bei den Farben gibt es viel Vielfalt. Das Poster zeigt Rot, Rotgelb, Schwarzrot, Schokobraun, Schokorot, Schwarzcreme, Wildfarben und Dapple, auch Merle genannt. Viele Farben und Muster sind möglich.",
+      "x": 1,
+      "y": 38,
+      "width": 30,
+      "height": 28
+    },
+    {
+      "id": "charakter",
+      "label": "Charakter",
+      "text": "Dackel gelten als mutig und selbstbewusst. Sie sind kleine Hunde mit großem Selbstvertrauen, intelligent, lernfreudig und schnell im Kopf. Ihr ausgeprägter Spürsinn macht Jagdtrieb und Neugier typisch. Viele Dackel sind anhänglich und treu, binden sich eng an ihre Familie und bleiben zugleich eigenständig und stur. Deshalb sind Konsequenz und liebevolle Erziehung besonders wichtig.",
+      "x": 69,
+      "y": 38,
+      "width": 30,
+      "height": 28
+    },
+    {
+      "id": "bewegung-und-gesundheit",
+      "label": "Bewegung und Gesundheit",
+      "text": "Ein Dackel braucht tägliche Spaziergänge, Spiel und Nasenarbeit, damit er fit und zufrieden bleibt. Für seine Rückengesundheit sollte man auf Sprünge und Treppen achten und Übergewicht vermeiden. Eine schlanke Linie schützt Wirbelsäule und Gelenke. Gute Auslastung für Kopf und Nase, rückenschonendes Verhalten, regelmäßige Bewegung und ein gesundes Gewicht helfen dabei. Typische Gesundheitsthemen sind Bandscheibenvorfälle, Übergewicht und Zahnpflege.",
+      "x": 1,
+      "y": 67,
+      "width": 38,
+      "height": 31
+    },
+    {
+      "id": "geschichte",
+      "label": "Geschichte",
+      "text": "Die Geschichte des Dackels reicht auf dem Poster bis ins fünfzehnte Jahrhundert zurück. In Deutschland wurde er für die Baujagd auf Dachse entwickelt. Später wurde er in drei Größen gezüchtet, damit er verschiedene Aufgaben unter der Erde erfüllen konnte. Bei Jägern war er wegen seines Mutes, seiner Ausdauer und seines Spürsinns beliebt. Heute ist der Dackel weltweit ein geschätzter Begleiter und Familienhund.",
+      "x": 40,
+      "y": 63,
+      "width": 27,
+      "height": 34
+    },
+    {
+      "id": "pflege",
+      "label": "Pflege",
+      "text": "Die Pflege des Dackels hängt vom Fell ab. Kurzhaar braucht wenig Aufwand, Langhaar sollte regelmäßig gebürstet werden, und Rauhaar wird zwei- bis viermal pro Jahr getrimmt. Regelmäßiges Zähneputzen beugt Problemen vor. Auch Krallen, Ohren und Ernährung brauchen Aufmerksamkeit: Krallen sollten kontrolliert und bei Bedarf gekürzt werden, Ohren sollte man prüfen und sauber halten, und hochwertiges Futter in der richtigen Menge hält den Dackel gesund.",
+      "x": 69,
+      "y": 67,
+      "width": 30,
+      "height": 31
+    }
+  ]
+}
