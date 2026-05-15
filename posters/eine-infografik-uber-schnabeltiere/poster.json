@@ -1,0 +1,73 @@
+{
+  "id": "eine-infografik-uber-schnabeltiere",
+  "title": "Eine Infografik über Schnabeltiere",
+  "prompt": "Eine Infografik über Schnabeltiere",
+  "image": "/poster-assets/eine-infografik-uber-schnabeltiere/poster.png",
+  "createdAt": "2026-05-15T13:36:35Z",
+  "language": "de-DE",
+  "sections": [
+    {
+      "id": "ueberblick",
+      "label": "Überblick",
+      "text": "Das Schnabeltier steht auf dem Poster als außergewöhnliches Säugetier im Mittelpunkt. Es wirkt zugleich eigenartig, faszinierend und einzigartig, weil es Merkmale verbindet, die man sonst von sehr unterschiedlichen Tiergruppen kennt.",
+      "x": 12,
+      "y": 1,
+      "width": 76,
+      "height": 16
+    },
+    {
+      "id": "steckbrief",
+      "label": "Steckbrief",
+      "text": "Das Schnabeltier trägt den wissenschaftlichen Namen Ornithorhynchus anatinus und gehört zur Ordnung der Kloakentiere. Es wird etwa vierzig bis sechzig Zentimeter lang, wiegt ungefähr ein bis zweieinhalb Kilogramm und kann zehn bis siebzehn Jahre alt werden. Sein Verbreitungsgebiet liegt in Australien, besonders an der Ostküste und in Tasmanien. Es ist tag- und nachtaktiv und lebt überwiegend einzelgängerisch.",
+      "x": 2,
+      "y": 17,
+      "width": 27,
+      "height": 34
+    },
+    {
+      "id": "koerper",
+      "label": "Körper",
+      "text": "Der Körper des Schnabeltiers ist stark an das Leben im Wasser angepasst. Das dichte Fell ist wasserabweisend und isolierend. Der Entenschnabel besitzt Tastorgane, die bei der Beuteortung helfen, und Elektrorezeptoren erkennen elektrische Signale von Beutetieren. Die Schwimmhautfüße eignen sich zum Schwimmen und Graben. Der breite, flache Schwanz speichert Fettreserven. Männchen tragen an den Hinterbeinen einen Giftsporn.",
+      "x": 24,
+      "y": 19,
+      "width": 74,
+      "height": 48
+    },
+    {
+      "id": "lebensraum",
+      "label": "Lebensraum",
+      "text": "Schnabeltiere leben in Süßwasserflüssen und Bächen mit klarem, kühlem Wasser. Sie nutzen Uferböschungen mit Vegetation und Erdhöhlen als Rückzugsorte. Das Poster zeigt ihren Lebensraum in Höhen von null bis etwa eintausendfünfhundert Metern über dem Meeresspiegel.",
+      "x": 71,
+      "y": 44,
+      "width": 27,
+      "height": 24
+    },
+    {
+      "id": "nahrung",
+      "label": "Nahrung",
+      "text": "Schnabeltiere ernähren sich von kleinen wirbellosen Tieren, die sie am Gewässergrund aufspüren. Dazu gehören Insektenlarven, Krebstiere, Würmer und Schnecken. Ihre Beute finden sie mit ihrem elektrischen Gespür, auch wenn das Wasser trüb ist.",
+      "x": 2,
+      "y": 68,
+      "width": 27,
+      "height": 29
+    },
+    {
+      "id": "fortpflanzung",
+      "label": "Fortpflanzung",
+      "text": "Bei der Fortpflanzung legt das Weibchen ein bis drei Eier in einer Erdhöhle. Die Brutdauer beträgt ungefähr zehn Tage. Die Jungen werden danach mit Milch gesäugt, obwohl Schnabeltiere keine Zitzen haben. Die Milch tritt durch Hautdrüsen aus. Nach drei bis vier Monaten verlassen die Jungen die Höhle und werden selbstständig.",
+      "x": 31,
+      "y": 68,
+      "width": 26,
+      "height": 29
+    },
+    {
+      "id": "besonderheiten",
+      "label": "Besonderheiten",
+      "text": "Das Schnabeltier ist ein Kloakentier: Es legt Eier und säugt trotzdem seine Jungen. Seine elektrischen Sinne nehmen elektrische Felder wahr und helfen bei der Jagd. Wie andere Säugetiere hält es seine Körpertemperatur stabil. Der Giftsporn der Männchen kann bei Rivalenkämpfen Schmerzen verursachen, ist für Menschen aber nicht gefährlich. Als eines der ältesten Säugetiere gilt das Schnabeltier als Evolutionswunder und hat sich seit Millionen von Jahren nur wenig verändert.",
+      "x": 58,
+      "y": 68,
+      "width": 40,
+      "height": 29
+    }
+  ]
+}

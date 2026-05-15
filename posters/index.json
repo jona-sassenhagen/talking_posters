@@ -1,6 +1,22 @@
 {
   "posters": [
     {
+      "id": "eine-infografik-uber-saugetiere",
+      "title": "Eine Infografik über Säugetiere",
+      "prompt": "Eine Infografik über Säugetiere",
+      "image": "/poster-assets/eine-infografik-uber-saugetiere/poster.png",
+      "createdAt": "2026-05-15T13:42:45Z",
+      "language": "de-DE"
+    },
+    {
+      "id": "eine-infografik-uber-schnabeltiere",
+      "title": "Eine Infografik über Schnabeltiere",
+      "prompt": "Eine Infografik über Schnabeltiere",
+      "image": "/poster-assets/eine-infografik-uber-schnabeltiere/poster.png",
+      "createdAt": "2026-05-15T13:36:35Z",
+      "language": "de-DE"
+    },
+    {
       "id": "eine-infografik-uber-pferde",
       "title": "Eine Infografik über Pferde",
       "prompt": "Eine Infografik über Pferde",

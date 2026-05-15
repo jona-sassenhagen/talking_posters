@@ -1,0 +1,82 @@
+{
+  "id": "eine-infografik-uber-saugetiere",
+  "title": "Eine Infografik über Säugetiere",
+  "prompt": "Eine Infografik über Säugetiere",
+  "image": "/poster-assets/eine-infografik-uber-saugetiere/poster.png",
+  "createdAt": "2026-05-15T13:42:45Z",
+  "language": "de-DE",
+  "sections": [
+    {
+      "id": "ueberblick",
+      "label": "Überblick",
+      "text": "Das Poster zeigt die Vielfalt der Säugetiere. Säugetiere sind Wirbeltiere, die ihre Jungen mit Milch säugen und ihre Jungen bei den meisten Arten lebend zur Welt bringen. Beispiele reichen vom Fuchs und Elefanten bis zum Delfin.",
+      "x": 2,
+      "y": 1,
+      "width": 96,
+      "height": 20
+    },
+    {
+      "id": "merkmale",
+      "label": "Merkmale",
+      "text": "Säugetiere haben mehrere gemeinsame Merkmale. Als Warmblüter halten sie ihre Körpertemperatur konstant. Ihr Körper ist mit Fell oder Haaren bedeckt. Sie atmen mit Lungen und nicht mit Kiemen. Weibchen besitzen Milchdrüsen, mit denen sie ihre Jungen ernähren. Bei den meisten Säugetierarten kommen die Jungen lebend zur Welt.",
+      "x": 1,
+      "y": 21,
+      "width": 27,
+      "height": 41
+    },
+    {
+      "id": "koerper",
+      "label": "Der Säugetier-Körper",
+      "text": "Der Körper eines Säugetiers ist auf aktive Bewegung und ein Leben an Land, im Wasser oder in der Luft ausgelegt. Das Gehirn steuert alle Körperfunktionen. Fell oder Haare schützen und isolieren den Körper. Die Lungen nehmen Sauerstoff für die Atmung auf. Das Herz pumpt Blut durch den Körper und versorgt die Organe. Milchdrüsen produzieren Milch für die Jungen, und starke Gliedmaßen ermöglichen Bewegung.",
+      "x": 29,
+      "y": 21,
+      "width": 43,
+      "height": 41
+    },
+    {
+      "id": "lebensraeume",
+      "label": "Lebensräume",
+      "text": "Säugetiere leben in sehr unterschiedlichen Lebensräumen. Man findet sie in Wäldern, in Grasland und Savannen, in Bergen, in Wüsten, in Meeren und Gewässern sowie in Polargebieten. Ihre Körper und Lebensweisen sind an diese Umgebungen angepasst.",
+      "x": 73,
+      "y": 21,
+      "width": 26,
+      "height": 41
+    },
+    {
+      "id": "beispiele",
+      "label": "Beispiele",
+      "text": "Die Beispiele auf dem Poster zeigen, wie vielfältig Säugetiere sind. Zu ihnen gehören Löwe, Elefant, Fledermaus, Delfin, Braunbär, Giraffe, Igel und Hausmaus. Manche sind riesig, andere sehr klein, und sie bewegen sich auf sehr verschiedene Weise.",
+      "x": 1,
+      "y": 63,
+      "width": 98,
+      "height": 12
+    },
+    {
+      "id": "ernaehrung",
+      "label": "Ernährung",
+      "text": "Säugetiere ernähren sich je nach Art sehr unterschiedlich. Pflanzenfresser fressen Pflanzen, Blätter, Früchte oder Samen. Fleischfresser jagen und fressen andere Tiere. Allesfresser nutzen sowohl Pflanzen als auch Tiere als Nahrung. Insektenfresser ernähren sich hauptsächlich von Insekten.",
+      "x": 1,
+      "y": 75,
+      "width": 31,
+      "height": 22
+    },
+    {
+      "id": "schutz-und-bedrohung",
+      "label": "Schutz und Bedrohung",
+      "text": "Säugetiere brauchen Schutz, weil viele Arten durch menschliche Einflüsse gefährdet sind. Schutz bedeutet, Lebensräume zu bewahren, nachhaltig mit der Natur umzugehen, Gesetze und Schutzgebiete zu nutzen sowie Forschung und Aufklärung zu fördern. Bedrohungen entstehen durch die Zerstörung von Lebensräumen, den Klimawandel, Wilderei, illegalen Handel und Umweltverschmutzung. Jede Art ist wichtig für ein gesundes Ökosystem und für unsere Zukunft.",
+      "x": 33,
+      "y": 75,
+      "width": 35,
+      "height": 22
+    },
+    {
+      "id": "wichtig-zu-wissen",
+      "label": "Wichtig zu wissen",
+      "text": "Säugetiere sind intelligent und zeigen oft komplexes Verhalten. Viele können lernen und miteinander kommunizieren. Sie kümmern sich intensiv um ihren Nachwuchs. Die Gruppe ist sehr vielfältig und umfasst über sechstausend Arten, von winzig bis riesig. Manche Arten können außerdem sehr alt werden.",
+      "x": 69,
+      "y": 75,
+      "width": 30,
+      "height": 22
+    }
+  ]
+}
