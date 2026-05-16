@@ -1,0 +1,73 @@
+{
+  "id": "eine-infografik-uber-sterne-entstehen",
+  "title": "Wie Sterne entstehen",
+  "prompt": "Eine Infografik darüber, wie Sterne enstehen",
+  "image": "/poster-assets/eine-infografik-uber-sterne-entstehen/poster.png",
+  "createdAt": "2026-05-15T20:27:20Z",
+  "language": "de-DE",
+  "sections": [
+    {
+      "id": "ueberblick",
+      "label": "Wie Sterne entstehen",
+      "text": "Diese Infografik erklärt, wie aus Gas und Staub leuchtende Sterne entstehen. Am Ende dieses Prozesses kann ein stabiler Stern über sehr lange Zeit Licht und Wärme abgeben. Aus den Sternen entsteht neues Leben, weil sie die Materie und Energie bereitstellen, aus denen später neue kosmische Strukturen hervorgehen.",
+      "x": 6,
+      "y": 1,
+      "width": 88,
+      "height": 10
+    },
+    {
+      "id": "sternenstehungsgebiet",
+      "label": "Sternentstehungsgebiet",
+      "text": "Sterne beginnen in riesigen Molekülwolken. Dort sammeln sich Gas und Staub, aus denen die Bausteine neuer Sterne entstehen.",
+      "x": 3,
+      "y": 12,
+      "width": 41,
+      "height": 24
+    },
+    {
+      "id": "kollaps-der-gaswolke",
+      "label": "Kollaps der Gaswolke",
+      "text": "Durch die Schwerkraft zieht sich die Gaswolke zusammen. Dabei wird sie immer dichter und wärmer, bis sich im Inneren ein stark verdichtetes Zentrum bildet.",
+      "x": 58,
+      "y": 12,
+      "width": 39,
+      "height": 24
+    },
+    {
+      "id": "protostern",
+      "label": "Protostern",
+      "text": "Im Zentrum der zusammenfallenden Wolke entsteht ein heißer Protostern. Er ist noch kein fertiger Stern, sondern ein wachsender Kern, der von Gas und Staub umgeben ist.",
+      "x": 13,
+      "y": 38,
+      "width": 55,
+      "height": 34
+    },
+    {
+      "id": "akkretionsscheibe",
+      "label": "Akkretionsscheibe",
+      "text": "Um den Protostern bildet sich eine rotierende Akkretionsscheibe aus Gas und Staub. Materie fällt aus dieser Scheibe auf den Protostern, und dabei wird Energie frei.",
+      "x": 69,
+      "y": 44,
+      "width": 28,
+      "height": 20
+    },
+    {
+      "id": "kernfusion-beginnt",
+      "label": "Kernfusion beginnt",
+      "text": "Wenn der Kern heiß und dicht genug geworden ist, zündet die Kernfusion. Ab diesem Moment beginnt der Stern aus eigener Kraft zu leuchten.",
+      "x": 5,
+      "y": 73,
+      "width": 38,
+      "height": 23
+    },
+    {
+      "id": "hauptreihenstern",
+      "label": "Hauptreihenstern",
+      "text": "Aus dem Protostern wird ein stabiler Hauptreihenstern. Er strahlt Licht und Wärme aus und kann für Milliarden Jahre stabil bleiben.",
+      "x": 53,
+      "y": 73,
+      "width": 41,
+      "height": 23
+    }
+  ]
+}

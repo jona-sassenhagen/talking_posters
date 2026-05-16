@@ -1,6 +1,22 @@
 {
   "posters": [
     {
+      "id": "eine-infografik-uber-beruhmte-erfinder-1985-fur-kinder",
+      "title": "Berühmte Erfinder",
+      "prompt": "Eine Infografik über berühmte Erfinder, wie sie im Jahre 1985 für Kinder gemacht worden wäre",
+      "image": "/poster-assets/eine-infografik-uber-beruhmte-erfinder-1985-fur-kinder/poster.png",
+      "createdAt": "2026-05-15T21:35:43Z",
+      "language": "de-DE"
+    },
+    {
+      "id": "eine-infografik-uber-sterne-entstehen",
+      "title": "Wie Sterne entstehen",
+      "prompt": "Eine Infografik darüber, wie Sterne enstehen",
+      "image": "/poster-assets/eine-infografik-uber-sterne-entstehen/poster.png",
+      "createdAt": "2026-05-15T20:27:20Z",
+      "language": "de-DE"
+    },
+    {
       "id": "eine-infografik-uber-saugetiere",
       "title": "Eine Infografik über Säugetiere",
       "prompt": "Eine Infografik über Säugetiere",

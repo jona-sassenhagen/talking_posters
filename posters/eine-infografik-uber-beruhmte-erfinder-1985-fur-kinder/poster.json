@@ -1,0 +1,109 @@
+{
+  "id": "eine-infografik-uber-beruhmte-erfinder-1985-fur-kinder",
+  "title": "Berühmte Erfinder",
+  "prompt": "Eine Infografik über berühmte Erfinder, wie sie im Jahre 1985 für Kinder gemacht worden wäre",
+  "image": "/poster-assets/eine-infografik-uber-beruhmte-erfinder-1985-fur-kinder/poster.png",
+  "createdAt": "2026-05-15T21:35:43Z",
+  "language": "de-DE",
+  "sections": [
+    {
+      "id": "ueberblick",
+      "label": "Berühmte Erfinder",
+      "text": "Das Poster stellt berühmte Erfinder vor und zeigt, wie ihre Ideen die Welt verändert haben. Es ist wie eine Kinder-Infografik aus dem Jahr 1985 gestaltet, mit großen Bildfeldern, Jahreszahlen, Erfindungen und einer einfachen Reise durch die Zeit.",
+      "x": 1,
+      "y": 1,
+      "width": 98,
+      "height": 17
+    },
+    {
+      "id": "gutenberg",
+      "label": "Johannes Gutenberg",
+      "text": "Johannes Gutenberg lebte ungefähr von 1400 bis 1468. Auf dem Poster steht er für die Druckerpresse. Seine Erfindung machte Bücher für viele Menschen zugänglich, weil Texte schneller und in größerer Zahl gedruckt werden konnten.",
+      "x": 1,
+      "y": 19,
+      "width": 24,
+      "height": 24
+    },
+    {
+      "id": "leonardo-da-vinci",
+      "label": "Leonardo da Vinci",
+      "text": "Leonardo da Vinci lebte von 1452 bis 1519. Das Poster zeigt ihn mit dem Entwurf einer Flugmaschine. Seine Ideen und Zeichnungen waren ihrer Zeit weit voraus und zeigten, wie genau er Natur, Technik und Bewegung beobachtete.",
+      "x": 25,
+      "y": 19,
+      "width": 25,
+      "height": 24
+    },
+    {
+      "id": "james-watt",
+      "label": "James Watt",
+      "text": "James Watt lebte von 1736 bis 1819. Seine verbesserte Dampfmaschine gab der Industrie eine starke Kraft. Auf der Zeitleiste wird 1769 hervorgehoben, weil seine Arbeit damals besonders wichtig für Maschinen, Fabriken und Verkehr wurde.",
+      "x": 50,
+      "y": 19,
+      "width": 24,
+      "height": 24
+    },
+    {
+      "id": "thomas-edison",
+      "label": "Thomas Edison",
+      "text": "Thomas Edison lebte von 1847 bis 1931. Das Poster verbindet ihn mit der Glühbirne. Seine Arbeit brachte Licht in Häuser und Städte und machte elektrische Beleuchtung für den Alltag vieler Menschen sichtbar und nützlich.",
+      "x": 74,
+      "y": 19,
+      "width": 25,
+      "height": 24
+    },
+    {
+      "id": "alexander-graham-bell",
+      "label": "Alexander Graham Bell",
+      "text": "Alexander Graham Bell lebte von 1847 bis 1922. Auf dem Poster steht er für das Telefon. Mit dieser Erfindung konnte Sprache über weite Entfernungen übertragen werden, sodass Menschen miteinander sprechen konnten, auch wenn sie nicht am selben Ort waren.",
+      "x": 1,
+      "y": 43,
+      "width": 24,
+      "height": 23
+    },
+    {
+      "id": "marie-curie",
+      "label": "Marie Curie",
+      "text": "Marie Curie lebte von 1867 bis 1934. Das Poster nennt die Radioaktivität und zeigt Laborgeräte. Ihre Forschung half der Medizin und der Wissenschaft, weil sie neue Erkenntnisse über unsichtbare Strahlung und chemische Elemente brachte.",
+      "x": 25,
+      "y": 43,
+      "width": 25,
+      "height": 23
+    },
+    {
+      "id": "nikola-tesla",
+      "label": "Nikola Tesla",
+      "text": "Nikola Tesla lebte von 1856 bis 1943. Das Poster zeigt elektrische Funken und nennt den Wechselstrom. Seine Stromsysteme halfen dabei, Energie in Häuser zu bringen und Elektrizität über große Entfernungen nutzbar zu machen.",
+      "x": 50,
+      "y": 43,
+      "width": 24,
+      "height": 23
+    },
+    {
+      "id": "konrad-zuse",
+      "label": "Konrad Zuse",
+      "text": "Konrad Zuse lebte von 1910 bis 1995. Das Poster zeigt ihn mit einem frühen Computer. Er baute den ersten programmierbaren Computer und gehört deshalb zu den wichtigen Wegbereitern der modernen Rechentechnik.",
+      "x": 74,
+      "y": 43,
+      "width": 25,
+      "height": 23
+    },
+    {
+      "id": "reise-durch-die-zeit",
+      "label": "Eine Reise durch die Zeit",
+      "text": "Die Zeitleiste führt von der Druckerpresse um 1400 bis zu Zuses Computer im Jahr 1941. Sie ordnet die Erfindungen nacheinander ein: Gutenberg, Leonardo da Vinci, James Watt, Thomas Edison, Alexander Graham Bell, Marie Curie, Nikola Tesla und Konrad Zuse. So sieht man, dass technische Ideen über viele Jahrhunderte aufeinander folgten.",
+      "x": 1,
+      "y": 66,
+      "width": 98,
+      "height": 13
+    },
+    {
+      "id": "so-arbeiten-erfinder",
+      "label": "So arbeiten Erfinder",
+      "text": "Das Poster erklärt, wie Erfinder arbeiten. Zuerst beobachten sie genau und entdecken Probleme. Dann überlegen sie sich eine Idee oder Lösung. Anschließend machen sie Skizzen und Pläne, bauen Modelle und probieren aus, ob alles funktioniert. Danach verbessern sie ihre Erfindung, bis sie besser ist. Am Ende soll die Erfindung Menschen im Alltag und in der Zukunft helfen.",
+      "x": 1,
+      "y": 80,
+      "width": 98,
+      "height": 19
+    }
+  ]
+}
