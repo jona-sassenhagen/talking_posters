@@ -1,0 +1,145 @@
+{
+  "id": "eine-infografik-uber-griechische-romische-gotter",
+  "title": "Griechische und römische Götter",
+  "prompt": "Eine Infografik über die Griech./Röm. Götter, mit Funtion und jeweils beiden Namen",
+  "image": "/poster-assets/eine-infografik-uber-griechische-romische-gotter/poster.png",
+  "createdAt": "2026-05-17T15:20:00Z",
+  "language": "de-DE",
+  "sections": [
+    {
+      "id": "zeus-jupiter",
+      "label": "Zeus und Jupiter",
+      "text": "Zeus heißt in der römischen Mythologie Jupiter. Er ist der Göttervater und herrscht über Himmel und Blitz.",
+      "x": 4.5,
+      "y": 22.1,
+      "width": 91,
+      "height": 5.2
+    },
+    {
+      "id": "hera-juno",
+      "label": "Hera und Juno",
+      "text": "Hera heißt bei den Römern Juno. Sie steht für Ehe und Familie und gilt als Beschützerin der Frauen.",
+      "x": 4.5,
+      "y": 27.3,
+      "width": 91,
+      "height": 5.2
+    },
+    {
+      "id": "poseidon-neptun",
+      "label": "Poseidon und Neptun",
+      "text": "Poseidon heißt auf Römisch Neptun. Sein Bereich sind das Meer, Erdbeben und Pferde.",
+      "x": 4.5,
+      "y": 32.5,
+      "width": 91,
+      "height": 5.2
+    },
+    {
+      "id": "demeter-ceres",
+      "label": "Demeter und Ceres",
+      "text": "Demeter trägt in der römischen Mythologie den Namen Ceres. Sie ist mit Ackerbau, Ernte und Fruchtbarkeit verbunden.",
+      "x": 4.5,
+      "y": 37.7,
+      "width": 91,
+      "height": 5.2
+    },
+    {
+      "id": "athene-minerva",
+      "label": "Athene und Minerva",
+      "text": "Athene heißt bei den Römern Minerva. Sie verkörpert Weisheit, kluge Strategie und das Handwerk.",
+      "x": 4.5,
+      "y": 42.9,
+      "width": 91,
+      "height": 5.2
+    },
+    {
+      "id": "apollon-apollo",
+      "label": "Apollon und Apollo",
+      "text": "Apollon wird im Römischen Apollo genannt. Er steht für Sonne, Musik, Heilkunst und Weissagung.",
+      "x": 4.5,
+      "y": 48.1,
+      "width": 91,
+      "height": 5.2
+    },
+    {
+      "id": "artemis-diana",
+      "label": "Artemis und Diana",
+      "text": "Artemis heißt in Rom Diana. Sie ist die Göttin der Jagd, des Mondes und der Wildnis.",
+      "x": 4.5,
+      "y": 53.3,
+      "width": 91,
+      "height": 5.2
+    },
+    {
+      "id": "ares-mars",
+      "label": "Ares und Mars",
+      "text": "Ares entspricht dem römischen Mars. Beide sind mit Krieg, Kampf und Mut verbunden.",
+      "x": 4.5,
+      "y": 58.5,
+      "width": 91,
+      "height": 5.2
+    },
+    {
+      "id": "aphrodite-venus",
+      "label": "Aphrodite und Venus",
+      "text": "Aphrodite heißt bei den Römern Venus. Sie steht für Liebe, Schönheit und Begierde.",
+      "x": 4.5,
+      "y": 63.7,
+      "width": 91,
+      "height": 5.2
+    },
+    {
+      "id": "hermes-merkur",
+      "label": "Hermes und Merkur",
+      "text": "Hermes wird im Römischen Merkur genannt. Er ist der Gott der Boten, des Handels und der Reisen.",
+      "x": 4.5,
+      "y": 68.9,
+      "width": 91,
+      "height": 5.2
+    },
+    {
+      "id": "hephaistos-vulkan",
+      "label": "Hephaistos und Vulkan",
+      "text": "Hephaistos heißt in der römischen Mythologie Vulkan. Er ist mit Feuer, Schmiedehandwerk und Technik verbunden.",
+      "x": 4.5,
+      "y": 74.1,
+      "width": 91,
+      "height": 5.2
+    },
+    {
+      "id": "hestia-vesta",
+      "label": "Hestia und Vesta",
+      "text": "Hestia entspricht der römischen Vesta. Ihr Bereich ist das Herdfeuer, das Haus und die Gemeinschaft.",
+      "x": 4.5,
+      "y": 79.3,
+      "width": 91,
+      "height": 5.2
+    },
+    {
+      "id": "dionysos-bacchus",
+      "label": "Dionysos und Bacchus",
+      "text": "Dionysos heißt bei den Römern Bacchus. Er steht für Wein, Feste und das Theater.",
+      "x": 4.5,
+      "y": 84.5,
+      "width": 91,
+      "height": 5.2
+    },
+    {
+      "id": "hades-pluto",
+      "label": "Hades und Pluto",
+      "text": "Hades trägt in der römischen Mythologie den Namen Pluto. Er herrscht über die Unterwelt und den Reichtum der Erde.",
+      "x": 4.5,
+      "y": 89.7,
+      "width": 91,
+      "height": 5.2
+    },
+    {
+      "id": "persephone-proserpina",
+      "label": "Persephone und Proserpina",
+      "text": "Persephone heißt bei den Römern Proserpina. Sie verbindet den Frühling mit der Unterwelt und steht für Wandel.",
+      "x": 4.5,
+      "y": 94.9,
+      "width": 91,
+      "height": 4.2
+    }
+  ]
+}

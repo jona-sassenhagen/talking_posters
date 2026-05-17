@@ -1,6 +1,22 @@
 {
   "posters": [
     {
+      "id": "eine-infografik-uber-griechische-romische-gotter",
+      "title": "Griechische und römische Götter",
+      "prompt": "Eine Infografik über die Griech./Röm. Götter, mit Funtion und jeweils beiden Namen",
+      "image": "/poster-assets/eine-infografik-uber-griechische-romische-gotter/poster.png",
+      "createdAt": "2026-05-17T15:20:00Z",
+      "language": "de-DE"
+    },
+    {
+      "id": "eine-infografik-uber-die-entstehung-von-uran",
+      "title": "Die Entstehung von Uran",
+      "prompt": "Eine Infografik über die Entstehung von Uran",
+      "image": "/poster-assets/eine-infografik-uber-die-entstehung-von-uran/poster.png",
+      "createdAt": "2026-05-17T13:49:02Z",
+      "language": "de-DE"
+    },
+    {
       "id": "eine-infografik-uber-die-entstehung-von-braunkohle",
       "title": "Die Entstehung von Braunkohle",
       "prompt": "Eine Infografik über die Entstehung von Braunkohle, angefangen bei Sonnenstrahlen, Chlorophyll etc",

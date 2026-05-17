@@ -1,0 +1,91 @@
+{
+  "id": "eine-infografik-uber-die-entstehung-von-uran",
+  "title": "Die Entstehung von Uran",
+  "prompt": "Eine Infografik über die Entstehung von Uran",
+  "image": "/poster-assets/eine-infografik-uber-die-entstehung-von-uran/poster.png",
+  "createdAt": "2026-05-17T13:49:02Z",
+  "language": "de-DE",
+  "sections": [
+    {
+      "id": "ueberblick",
+      "label": "Die Entstehung von Uran",
+      "text": "Diese Infografik erklärt die Entstehung von Uran vom frühen Universum bis zur Erde. Uran entsteht nicht direkt beim Urknall und auch nicht durch normale Sternfusion, sondern in extremen kosmischen Ereignissen. Später gelangt es in Staubwolken, in das junge Sonnensystem und schließlich in Gesteine und Erze der Erde.",
+      "x": 0,
+      "y": 0,
+      "width": 100,
+      "height": 9.5
+    },
+    {
+      "id": "urknall-leichte-elemente",
+      "label": "Urknall: leichte Elemente",
+      "text": "Nach dem Urknall entstehen vor allem leichte Elemente. Dazu gehören Wasserstoff, Helium und kleine Spuren von Lithium. Schwere Elemente wie Uran gibt es zu diesem Zeitpunkt noch nicht.",
+      "x": 1.8,
+      "y": 10.2,
+      "width": 51.4,
+      "height": 13.5
+    },
+    {
+      "id": "sternfusion-bis-eisen",
+      "label": "Sternfusion bis Eisen",
+      "text": "In Sternen verschmelzen leichtere Atomkerne durch Kernfusion zu immer schwereren Elementen. Dieser Prozess kann große Mengen Energie freisetzen, führt aber nur bis ungefähr zum Element Eisen. Für Uran reicht normale Sternfusion nicht aus.",
+      "x": 1.8,
+      "y": 24.2,
+      "width": 51.4,
+      "height": 13.2
+    },
+    {
+      "id": "r-prozess-bildet-uran",
+      "label": "Supernova oder Neutronensternkollision",
+      "text": "Uran bildet sich bei extremen Ereignissen wie Supernovae oder Kollisionen von Neutronensternen. Dort werden Atomkerne sehr schnell mit Neutronen angereichert. Dieser schnelle Neutroneneinfang heißt r-Prozess und kann sehr schwere Elemente erzeugen, darunter Uran.",
+      "x": 1.8,
+      "y": 38,
+      "width": 51.4,
+      "height": 15.2
+    },
+    {
+      "id": "staubwolke-und-sonnensystem",
+      "label": "Staubwolke und Sonnensystem",
+      "text": "Das bei Sternexplosionen und ähnlichen Ereignissen gebildete Uran wird in den interstellaren Raum geschleudert. Dort mischt es sich mit Gas und Staub. Aus einer solchen angereicherten Wolke entstehen später die Sonne, Planeten und kleine Körper des Sonnensystems.",
+      "x": 1.8,
+      "y": 53.8,
+      "width": 51.4,
+      "height": 14
+    },
+    {
+      "id": "erde-gestein-und-erze",
+      "label": "Erde: Uran in Gestein und Erzen",
+      "text": "Auf der Erde findet man Uran in verschiedenen Gesteinen und Erzen. Es wurde während der Entstehung unseres Planeten in das Material der Erde eingebaut und ist seitdem in der Erdkruste verteilt.",
+      "x": 1.8,
+      "y": 68.4,
+      "width": 56.2,
+      "height": 14.5
+    },
+    {
+      "id": "zerfall-und-halbwertszeit",
+      "label": "Zerfall: sehr lange Halbwertszeit",
+      "text": "Uran zweihundertachtunddreißig zerfällt sehr langsam durch radioaktiven Alphazerfall und wird über mehrere Zwischenschritte schließlich zu Blei. Seine Halbwertszeit beträgt etwa vier Komma siebenundvierzig Milliarden Jahre und ist damit länger als die Entstehung der Erde zurückliegt.",
+      "x": 1.8,
+      "y": 83.2,
+      "width": 56.2,
+      "height": 16
+    },
+    {
+      "id": "uran-atom-und-mineral",
+      "label": "Uranatom und Uranerz",
+      "text": "Das große zentrale Motiv zeigt Uran als schweres Element mit der Ordnungszahl zweiundneunzig und verbindet es mit einem grün leuchtenden Uranmineral. Es macht sichtbar, dass Uran zugleich ein chemisches Element, ein Bestandteil bestimmter Minerale und ein Produkt sehr energiereicher kosmischer Vorgänge ist.",
+      "x": 56,
+      "y": 11,
+      "width": 42,
+      "height": 58
+    },
+    {
+      "id": "zusammenfassung",
+      "label": "Zusammenfassung",
+      "text": "Zusammengefasst entsteht Uran in den extremsten Ereignissen des Universums. Es wird Teil von Sternenstaub, Planeten und schließlich der Erde. Heute finden wir es in Gesteinen und Erzen. Sein radioaktiver Zerfall ist extrem langsam und bewahrt Energie über Milliarden von Jahren.",
+      "x": 61,
+      "y": 70,
+      "width": 36,
+      "height": 24
+    }
+  ]
+}
