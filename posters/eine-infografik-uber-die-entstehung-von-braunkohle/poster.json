@@ -1,0 +1,91 @@
+{
+  "id": "eine-infografik-uber-die-entstehung-von-braunkohle",
+  "title": "Die Entstehung von Braunkohle",
+  "prompt": "Eine Infografik über die Entstehung von Braunkohle, angefangen bei Sonnenstrahlen, Chlorophyll etc",
+  "image": "/poster-assets/eine-infografik-uber-die-entstehung-von-braunkohle/poster.png",
+  "createdAt": "2026-05-17T13:18:58Z",
+  "language": "de-DE",
+  "sections": [
+    {
+      "id": "ueberblick",
+      "label": "Die Entstehung von Braunkohle",
+      "text": "Diese Infografik zeigt, wie aus Sonnenlicht über Pflanzenwachstum, abgestorbene Biomasse, Sauerstoffarmut, Torfbildung und lange geologische Umwandlung Braunkohle entsteht. Sonnenenergie wird dabei in Pflanzen gespeichert und bleibt über Millionen Jahre in Kohlenstoffverbindungen erhalten.",
+      "x": 0,
+      "y": 0,
+      "width": 100,
+      "height": 8
+    },
+    {
+      "id": "sonnenenergie",
+      "label": "Sonnenenergie",
+      "text": "Am Anfang steht die Sonnenenergie. Die Sonne liefert Licht und Wärme. Diese Energie treibt das Wachstum von Pflanzen an und bildet die Grundlage dafür, dass später energiereiche Pflanzenmasse entstehen kann.",
+      "x": 0,
+      "y": 8,
+      "width": 100,
+      "height": 10
+    },
+    {
+      "id": "chlorophyll-und-photosynthese",
+      "label": "Chlorophyll und Photosynthese",
+      "text": "Pflanzen nehmen Kohlendioxid aus der Luft und Wasser aus ihrer Umgebung auf. Mit Hilfe von Chlorophyll und Sonnenlicht betreiben sie Photosynthese. Dabei wird Energie in Zucker gespeichert, und Sauerstoff wird freigesetzt.",
+      "x": 0,
+      "y": 18,
+      "width": 100,
+      "height": 15
+    },
+    {
+      "id": "pflanzenwachstum",
+      "label": "Pflanzenwachstum",
+      "text": "In üppigen Sumpfwäldern wachsen viele Pflanzen. Sie binden Kohlenstoff und speichern die aufgenommene Sonnenenergie in ihrer Biomasse, also in Stämmen, Blättern, Wurzeln und anderen Pflanzenteilen.",
+      "x": 0,
+      "y": 33,
+      "width": 100,
+      "height": 12
+    },
+    {
+      "id": "absterben-und-ueberlagerung",
+      "label": "Absterben und Überlagerung",
+      "text": "Wenn Pflanzen absterben, sinken ihre Reste in Sümpfe und Moore. Dort werden sie von Schlamm, Sand und Ton überdeckt. So gelangt die Pflanzenmasse in tiefere, feuchte und zunehmend abgeschlossene Schichten.",
+      "x": 0,
+      "y": 45,
+      "width": 100,
+      "height": 11
+    },
+    {
+      "id": "sauerstoffarmut",
+      "label": "Sauerstoffarmut",
+      "text": "Unter Wasser und Sedimenten ist nur wenig Sauerstoff vorhanden. Dadurch wird die vollständige Zersetzung verhindert. Viele Pflanzenreste bleiben erhalten und können sich weiter ansammeln.",
+      "x": 0,
+      "y": 56,
+      "width": 100,
+      "height": 11
+    },
+    {
+      "id": "torfbildung",
+      "label": "Torfbildung",
+      "text": "Über lange Zeit entstehen aus teilweise zersetzten Pflanzenresten mächtige Torfschichten. Der Torf enthält noch viel organisches Material und ist eine frühe Vorstufe der späteren Braunkohle.",
+      "x": 0,
+      "y": 67,
+      "width": 100,
+      "height": 9
+    },
+    {
+      "id": "verkohlung-ueber-millionen-jahre",
+      "label": "Verkohlung über Millionen Jahre",
+      "text": "Durch weitere Überlagerung steigen Druck und Temperatur. Über Millionen Jahre verändert sich der Torf chemisch und physikalisch. Dabei wird Wasser ausgepresst, der Kohlenstoffanteil steigt, und aus Torf wird Braunkohle.",
+      "x": 0,
+      "y": 76,
+      "width": 100,
+      "height": 12
+    },
+    {
+      "id": "heutige-braunkohlefloeze",
+      "label": "Heutige Braunkohleflöze",
+      "text": "Heute finden wir Braunkohle in mächtigen Flözen tief in der Erde. Diese dunklen Schichten sind die gespeicherten Reste ehemaliger Sumpfwälder und enthalten Energie aus sehr alter Sonnenstrahlung.",
+      "x": 0,
+      "y": 88,
+      "width": 100,
+      "height": 12
+    }
+  ]
+}

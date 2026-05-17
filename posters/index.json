@@ -1,6 +1,14 @@
 {
   "posters": [
     {
+      "id": "eine-infografik-uber-die-entstehung-von-braunkohle",
+      "title": "Die Entstehung von Braunkohle",
+      "prompt": "Eine Infografik über die Entstehung von Braunkohle, angefangen bei Sonnenstrahlen, Chlorophyll etc",
+      "image": "/poster-assets/eine-infografik-uber-die-entstehung-von-braunkohle/poster.png",
+      "createdAt": "2026-05-17T13:18:58Z",
+      "language": "de-DE"
+    },
+    {
       "id": "eine-infografik-uber-beruhmte-erfinder-1985-fur-kinder",
       "title": "Berühmte Erfinder",
       "prompt": "Eine Infografik über berühmte Erfinder, wie sie im Jahre 1985 für Kinder gemacht worden wäre",
