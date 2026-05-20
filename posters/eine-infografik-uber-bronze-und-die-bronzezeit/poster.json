@@ -1,0 +1,91 @@
+{
+  "id": "eine-infografik-uber-bronze-und-die-bronzezeit",
+  "title": "Bronze und die Bronzezeit",
+  "prompt": "Eine Infografik über Bronze und die Bronzezeit",
+  "image": "/poster-assets/eine-infografik-uber-bronze-und-die-bronzezeit/poster.png",
+  "createdAt": "2026-05-20T12:40:55Z",
+  "language": "de-DE",
+  "sections": [
+    {
+      "id": "ueberblick",
+      "label": "Bronze und die Bronzezeit",
+      "text": "Diese Infografik zeigt Bronze als eine Legierung, die die Welt veränderte. Bronze ermöglichte neue Werkzeuge, Waffen, weiten Handel und komplexere Gesellschaften. Die Bronzezeit war deshalb ein entscheidender Schritt in der Menschheitsgeschichte.",
+      "x": 0,
+      "y": 0,
+      "width": 100,
+      "height": 17.5
+    },
+    {
+      "id": "was-ist-bronze",
+      "label": "Was ist Bronze?",
+      "text": "Bronze ist eine Legierung aus Kupfer und Zinn. Kupfer mit dem chemischen Zeichen Cu und Zinn mit dem chemischen Zeichen Sn werden miteinander verbunden. Aus dieser Mischung entsteht Bronze, ein Metall, das für Geräte, Schmuck und Waffen der Bronzezeit besonders wichtig war.",
+      "x": 2.1,
+      "y": 17.4,
+      "width": 23.2,
+      "height": 28.2
+    },
+    {
+      "id": "herstellung",
+      "label": "Wie wird Bronze hergestellt?",
+      "text": "Bronze wird in mehreren Schritten hergestellt. Zuerst werden Kupfererz und Zinnerz in Bergwerken abgebaut. Danach werden die Erze verhüttet, also stark erhitzt, um Metall zu gewinnen. Kupfer und Zinn werden anschließend geschmolzen und vermischt. Die flüssige Bronze wird in Formen gegossen. Am Ende wird das Gussstück geschliffen, gehämmert und geschärft.",
+      "x": 71.1,
+      "y": 15.5,
+      "width": 27,
+      "height": 32.1
+    },
+    {
+      "id": "eigenschaften",
+      "label": "Eigenschaften von Bronze",
+      "text": "Bronze ist härter und robuster als reines Kupfer. Sie ist widerstandsfähig gegen Korrosion, lässt sich gut gießen und eignet sich deshalb für Werkzeuge und Waffen. Außerdem ist Bronze langlebig und zuverlässig.",
+      "x": 2.2,
+      "y": 46.8,
+      "width": 21,
+      "height": 23.9
+    },
+    {
+      "id": "zeitstrahl",
+      "label": "Die Bronzezeit - Zeitstrahl",
+      "text": "Der Zeitstrahl teilt die Bronzezeit in drei Abschnitte. Die frühe Bronzezeit reicht ungefähr von zweitausenddreihundert bis siebzehnhundert vor Christus; in dieser Zeit beginnt die Nutzung von Bronze, und Handel und Siedlungen wachsen. Die mittlere Bronzezeit reicht ungefähr von siebzehnhundert bis zwölfhundert vor Christus; Blütezeit der Kulturen, Handwerk und Handel sind auf dem Höhepunkt. Die späte Bronzezeit reicht ungefähr von zwölfhundert bis achthundert vor Christus; Veränderungen und Umbrüche prägen das Ende der Bronzezeit.",
+      "x": 23.4,
+      "y": 55.2,
+      "width": 48.2,
+      "height": 15.2
+    },
+    {
+      "id": "werkzeuge-und-waffen",
+      "label": "Werkzeuge und Waffen",
+      "text": "Bronze wurde zu vielen Werkzeugen und Waffen verarbeitet. Die Infografik zeigt eine Speerspitze, ein Schwert, ein Beil, eine Sichel und einen Dolch. Solche Gegenstände waren schärfer, haltbarer und besser formbar als viele ältere Geräte aus Stein oder reinem Kupfer.",
+      "x": 71.6,
+      "y": 48.9,
+      "width": 26.4,
+      "height": 21.4
+    },
+    {
+      "id": "handel-und-gesellschaft",
+      "label": "Handel und Gesellschaft",
+      "text": "In der Bronzezeit entstand ein weitreichender Handel, weil Rohstoffe wie Zinn über große Entfernungen transportiert wurden. Spezialisiertes Handwerk wurde wichtig, denn Metallurgen, Gießer und andere Fachleute stellten begehrte Gegenstände her. Reiche Gräber und Funde zeigen soziale Unterschiede. Dörfer, Höfe und befestigte Anlagen prägten die Siedlungen dieser Zeit.",
+      "x": 2.1,
+      "y": 71.5,
+      "width": 54.1,
+      "height": 21.9
+    },
+    {
+      "id": "archaeologische-funde",
+      "label": "Archäologische Funde",
+      "text": "Archäologische Funde machen die Bronzezeit heute sichtbar. Zu den gezeigten Objekten gehören ein Bronzebeil, ein Bronzedolch, Halsschmuck, ein Bronzeschwert, ein Bronzegefäß und Grabbeigaben. Solche Funde erzählen von Technik, Alltag, Status und Bestattungsritualen der Menschen.",
+      "x": 57.3,
+      "y": 71.5,
+      "width": 40.9,
+      "height": 21.9
+    },
+    {
+      "id": "zentrale-szene",
+      "label": "Zentrale Szene",
+      "text": "Die zentrale Szene verbindet einen großen bronzezeitlichen Axtkopf und einen Barren mit einer Siedlung im Hintergrund. Sie zeigt, dass Bronze nicht nur ein Material war, sondern Teil eines ganzen technischen und sozialen Systems aus Bergbau, Handwerk, Handel und gemeinschaftlichem Leben.",
+      "x": 24,
+      "y": 17.8,
+      "width": 47,
+      "height": 37.1
+    }
+  ]
+}

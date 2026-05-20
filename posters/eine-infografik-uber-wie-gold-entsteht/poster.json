@@ -1,0 +1,73 @@
+{
+  "id": "eine-infografik-uber-wie-gold-entsteht",
+  "title": "Wie Gold entsteht",
+  "prompt": "Eine Infografik darüber, wie Gold entsteht (von der Entstehung des Elements zu Gewinnung und Verarbeitung)",
+  "image": "/poster-assets/eine-infografik-uber-wie-gold-entsteht/poster.png",
+  "createdAt": "2026-05-20T12:45:59Z",
+  "language": "de-DE",
+  "sections": [
+    {
+      "id": "ueberblick",
+      "label": "Wie Gold entsteht",
+      "text": "Diese Infografik zeigt den Weg des Goldes vom Kosmos bis zum wertvollen Metall. Gold ist ein seltenes Element. Es entsteht im Weltraum, gelangt mit kosmischem Material auf die Erde, wird in Gesteinen konzentriert und anschließend vom Menschen gewonnen, gereinigt und verarbeitet.",
+      "x": 0,
+      "y": 0,
+      "width": 100,
+      "height": 20.2
+    },
+    {
+      "id": "kosmische-entstehung",
+      "label": "Kosmische Entstehung",
+      "text": "Gold entsteht bei extrem energiereichen Ereignissen im Kosmos. Besonders wichtig sind Kollisionen von Neutronensternen; auch Supernovae können zur Bildung schwerer Elemente beitragen. Dabei werden Atomkerne unter gewaltigem Druck und hoher Energie aufgebaut, sodass schwere Elemente wie Gold entstehen.",
+      "x": 0,
+      "y": 20.2,
+      "width": 100,
+      "height": 13.7
+    },
+    {
+      "id": "lieferung-zur-fruehen-erde",
+      "label": "Lieferung zur frühen Erde",
+      "text": "In der Frühzeit des Sonnensystems wurde Gold durch kosmisches Material zur Erde gebracht. Meteoriten, Staub und andere Gesteinsreste schlugen auf der jungen Erde ein und lieferten dabei Metalle und Minerale, darunter auch Gold.",
+      "x": 0,
+      "y": 33.9,
+      "width": 100,
+      "height": 11.6
+    },
+    {
+      "id": "konzentration-in-der-erde",
+      "label": "Konzentration in der Erde",
+      "text": "In der Erdkruste sammelt sich Gold vor allem in Lagerstätten. Heißes, mineralreiches Wasser löst Gold aus dem Gestein und scheidet es später in Klüften und Adern wieder ab. Durch Verwitterung und Erosion kann Gold aus dem Gestein gelöst und in Flüsse transportiert werden, wo sekundäre Lagerstätten entstehen.",
+      "x": 0,
+      "y": 45.5,
+      "width": 100,
+      "height": 16.5
+    },
+    {
+      "id": "erkundung-und-gewinnung",
+      "label": "Erkundung und Gewinnung",
+      "text": "Bevor Gold abgebaut wird, suchen Fachleute mit Prospektion und geologischen Untersuchungen nach geeigneten Lagerstätten. Danach wird das goldhaltige Gestein entweder im Tagebau oder im Untertagebau gewonnen und zur weiteren Verarbeitung transportiert.",
+      "x": 0,
+      "y": 62,
+      "width": 100,
+      "height": 12.7
+    },
+    {
+      "id": "zerkleinern-und-chemische-trennung",
+      "label": "Zerkleinern und chemische Trennung",
+      "text": "Nach dem Abbau wird das Erz zerkleinert und gemahlen. Anschließend wird es aufbereitet, zum Beispiel durch Flotation. In manchen Verfahren wird Gold chemisch aus dem Erz gelöst, etwa mit Cyanidlösung. Danach fällt das Gold aus der Lösung aus und es entsteht ein Goldkonzentrat, das Dore genannt wird.",
+      "x": 0,
+      "y": 74.7,
+      "width": 100,
+      "height": 10.4
+    },
+    {
+      "id": "raffination-guss-recycling-und-nutzung",
+      "label": "Raffination, Guss, Recycling und Nutzung",
+      "text": "Im letzten Schritt wird das Gold raffiniert, also weiter gereinigt. Aus dem Feingold mit sehr hoher Reinheit werden Barren, Rohlinge oder andere Formen gegossen. Gold kann außerdem aus Altgold recycelt werden. Genutzt wird es für Schmuck, Elektronik, Werterhalt und Anlagen sowie in Medizin und Technik.",
+      "x": 0,
+      "y": 85.1,
+      "width": 100,
+      "height": 14.9
+    }
+  ]
+}

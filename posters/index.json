@@ -1,6 +1,38 @@
 {
   "posters": [
     {
+      "id": "eine-infografik-uber-die-elemente-fur-kinder",
+      "title": "Die Elemente",
+      "prompt": "Eine Infografik über die Elemente, für Kinder",
+      "image": "/poster-assets/eine-infografik-uber-die-elemente-fur-kinder/poster.png",
+      "createdAt": "2026-05-20T13:07:52Z",
+      "language": "de-DE"
+    },
+    {
+      "id": "eine-infografik-uber-die-zeitalter-der-menschheit-fur-kinder",
+      "title": "Die Zeitalter der Menschheit",
+      "prompt": "Eine Infografik über die Zeitalter der Menschheit (Steinzeit, Bronzezeit ...) für Kinder",
+      "image": "/poster-assets/eine-infografik-uber-die-zeitalter-der-menschheit-fur-kinder/poster.png",
+      "createdAt": "2026-05-20T12:53:59Z",
+      "language": "de-DE"
+    },
+    {
+      "id": "eine-infografik-uber-wie-gold-entsteht",
+      "title": "Wie Gold entsteht",
+      "prompt": "Eine Infografik darüber, wie Gold entsteht (von der Entstehung des Elements zu Gewinnung und Verarbeitung)",
+      "image": "/poster-assets/eine-infografik-uber-wie-gold-entsteht/poster.png",
+      "createdAt": "2026-05-20T12:45:59Z",
+      "language": "de-DE"
+    },
+    {
+      "id": "eine-infografik-uber-bronze-und-die-bronzezeit",
+      "title": "Bronze und die Bronzezeit",
+      "prompt": "Eine Infografik über Bronze und die Bronzezeit",
+      "image": "/poster-assets/eine-infografik-uber-bronze-und-die-bronzezeit/poster.png",
+      "createdAt": "2026-05-20T12:40:55Z",
+      "language": "de-DE"
+    },
+    {
       "id": "eine-infografik-uber-griechische-romische-gotter",
       "title": "Griechische und römische Götter",
       "prompt": "Eine Infografik über die Griech./Röm. Götter, mit Funtion und jeweils beiden Namen",

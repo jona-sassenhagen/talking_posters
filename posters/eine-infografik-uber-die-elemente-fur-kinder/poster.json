@@ -1,0 +1,118 @@
+{
+  "id": "eine-infografik-uber-die-elemente-fur-kinder",
+  "title": "Die Elemente",
+  "prompt": "Eine Infografik über die Elemente, für Kinder",
+  "image": "/poster-assets/eine-infografik-uber-die-elemente-fur-kinder/poster.png",
+  "createdAt": "2026-05-20T13:07:52Z",
+  "language": "de-DE",
+  "sections": [
+    {
+      "id": "titel",
+      "label": "Die Elemente",
+      "text": "Diese Infografik heißt Die Elemente. Sie erklärt, dass alles in unserer Welt aus chemischen Elementen besteht und dass diese kleinsten Bausteine eine große Wirkung haben.",
+      "x": 15,
+      "y": 1,
+      "width": 70,
+      "height": 10
+    },
+    {
+      "id": "was-ist-ein-element",
+      "label": "Was ist ein Element?",
+      "text": "Ein Element ist ein Reinstoff. Das bedeutet, dass es nur aus einer Art von Atom besteht. So kann man sich Elemente wie eine Sammlung gleicher winziger Bausteine vorstellen.",
+      "x": 2,
+      "y": 12,
+      "width": 26,
+      "height": 17
+    },
+    {
+      "id": "atome",
+      "label": "Atome",
+      "text": "Alles besteht aus winzig kleinen Bausteinen, den Atomen. In einem Atom gibt es Protonen mit positiver Ladung, Neutronen ohne Ladung und Elektronen, die außen herum kreisen.",
+      "x": 30,
+      "y": 12,
+      "width": 34,
+      "height": 17
+    },
+    {
+      "id": "warum-wichtig",
+      "label": "Warum Elemente wichtig sind",
+      "text": "Elemente sind wichtig, weil sie unsere Erde und das Universum bilden. Sie machen Leben möglich, stecken in Technik, Medizin und Kunst und es gibt über einhundertachtzehn Elemente, während immer noch Neues entdeckt wird.",
+      "x": 66,
+      "y": 12,
+      "width": 32,
+      "height": 17
+    },
+    {
+      "id": "periodensystem",
+      "label": "Periodensystem",
+      "text": "Im Periodensystem sind die Elemente nach ihren Eigenschaften angeordnet. Jede Kachel zeigt eine Ordnungszahl, ein Symbol und den Namen. Die Farben helfen dabei, Gruppen wie Alkalimetalle, Erdalkalimetalle, Übergangsmetalle, sonstige Metalle, Nichtmetalle und Edelgase zu erkennen.",
+      "x": 2,
+      "y": 30,
+      "width": 96,
+      "height": 34
+    },
+    {
+      "id": "metalle",
+      "label": "Metalle",
+      "text": "Metalle leiten Wärme und Strom. Sie sind oft fest, glänzend und formbar. Beispiele sind Eisen, Kupfer, Gold und Aluminium.",
+      "x": 2,
+      "y": 65,
+      "width": 30,
+      "height": 13
+    },
+    {
+      "id": "nichtmetalle",
+      "label": "Nichtmetalle",
+      "text": "Nichtmetalle können viele verschiedene Eigenschaften haben. Zu ihnen gehören zum Beispiel Kohlenstoff, Schwefel, Sauerstoff und Chlor.",
+      "x": 33,
+      "y": 65,
+      "width": 32,
+      "height": 13
+    },
+    {
+      "id": "edelgase",
+      "label": "Edelgase",
+      "text": "Edelgase sind sehr reaktionsträge. Sie kommen meist als einzelne Atome vor. Beispiele sind Helium, Neon, Argon und Krypton.",
+      "x": 66,
+      "y": 65,
+      "width": 32,
+      "height": 13
+    },
+    {
+      "id": "bausteine-des-alltags",
+      "label": "Bausteine des Alltags",
+      "text": "Elemente stecken in vielen Dingen, die wir jeden Tag benutzen. Silicium findet man in Glas, Kohlenstoff in Bleistiftminen, Lithium in Handys und Eisen in einem Topf.",
+      "x": 2,
+      "y": 79,
+      "width": 30,
+      "height": 16
+    },
+    {
+      "id": "elemente-im-korper",
+      "label": "Elemente im Körper",
+      "text": "Unser Körper braucht viele Elemente, um gesund zu bleiben. Sauerstoff hilft beim Atmen, Calcium stärkt die Knochen, Eisen ist wichtig für das Blut, Kohlenstoff ist eine Grundlage des Lebens, Natrium hilft Nerven und Muskeln, und Kalium ist wichtig fürs Herz.",
+      "x": 33,
+      "y": 79,
+      "width": 32,
+      "height": 16
+    },
+    {
+      "id": "forschen-und-sicherheit",
+      "label": "Forschen und Sicherheit",
+      "text": "Wissenschaftlerinnen und Wissenschaftler entdecken neue Elemente. Beim Forschen ist sicherer Umgang wichtig: neugierig bleiben und fragen, mit Stoffen vorsichtig umgehen und Schutzkleidung wie Brille, Handschuhe und Laborkittel tragen.",
+      "x": 66,
+      "y": 79,
+      "width": 32,
+      "height": 16
+    },
+    {
+      "id": "schluss",
+      "label": "Kleinste Bausteine, große Wirkung",
+      "text": "Die Elemente sind kleinste Bausteine mit großer Wirkung. Wer sie versteht, erkennt besser, woraus die Welt, unser Körper und viele Alltagsdinge aufgebaut sind.",
+      "x": 2,
+      "y": 96,
+      "width": 96,
+      "height": 3
+    }
+  ]
+}

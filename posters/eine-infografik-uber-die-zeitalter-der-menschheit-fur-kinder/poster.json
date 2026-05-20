@@ -1,0 +1,91 @@
+{
+  "id": "eine-infografik-uber-die-zeitalter-der-menschheit-fur-kinder",
+  "title": "Die Zeitalter der Menschheit",
+  "prompt": "Eine Infografik über die Zeitalter der Menschheit (Steinzeit, Bronzezeit ...) für Kinder",
+  "image": "/poster-assets/eine-infografik-uber-die-zeitalter-der-menschheit-fur-kinder/poster.png",
+  "createdAt": "2026-05-20T12:53:59Z",
+  "language": "de-DE",
+  "sections": [
+    {
+      "id": "ueberblick",
+      "label": "Die Zeitalter der Menschheit",
+      "text": "Diese Infografik nimmt Kinder mit auf eine Reise durch die Geschichte der Menschheit. Sie zeigt wichtige Zeitalter von der Steinzeit bis zur Moderne und macht sichtbar, wie sich Werkzeuge, Wohnen, Wissen, Technik und Zusammenleben Schritt für Schritt verändert haben.",
+      "x": 0,
+      "y": 0,
+      "width": 100,
+      "height": 11.2
+    },
+    {
+      "id": "steinzeit",
+      "label": "Steinzeit",
+      "text": "In der Steinzeit, ungefähr von zweieinhalb Millionen bis dreitausenddreihundert vor Christus, leben die Menschen als Jäger und Sammler in der Natur. Sie benutzen einfache Werkzeuge aus Stein, machen Feuer und malen Bilder an Höhlenwände.",
+      "x": 0,
+      "y": 11.2,
+      "width": 100,
+      "height": 13.4
+    },
+    {
+      "id": "jungsteinzeit",
+      "label": "Jungsteinzeit",
+      "text": "In der Jungsteinzeit, ungefähr von dreitausenddreihundert bis zweitausendzweihundert vor Christus, werden viele Menschen sesshaft. Sie bauen Häuser, legen Felder an und halten Tiere. Aus wandernden Gruppen entstehen Dörfer mit Ackerbau und Viehzucht.",
+      "x": 0,
+      "y": 24.6,
+      "width": 100,
+      "height": 12.2
+    },
+    {
+      "id": "bronzezeit",
+      "label": "Bronzezeit",
+      "text": "In der Bronzezeit, ungefähr von zweitausendzweihundert bis achthundert vor Christus, lernen Menschen Bronze herzustellen. Aus Bronze entstehen bessere Werkzeuge, Waffen und Schmuck. Metallhandwerk und Handel werden dadurch immer wichtiger.",
+      "x": 0,
+      "y": 36.8,
+      "width": 100,
+      "height": 10.9
+    },
+    {
+      "id": "eisenzeit",
+      "label": "Eisenzeit",
+      "text": "In der Eisenzeit, ungefähr von achthundert vor Christus bis zum Jahr null, nutzen Menschen Eisen. Eisen ist stärker als Bronze und hilft bei neuen Werkzeugen und Waffen. Damit können Menschen Felder besser bearbeiten und sich besser ausrüsten.",
+      "x": 0,
+      "y": 47.7,
+      "width": 100,
+      "height": 10.5
+    },
+    {
+      "id": "antike",
+      "label": "Antike",
+      "text": "In der Antike, ungefähr vom Jahr null bis fünfhundert nach Christus, entstehen große Reiche. Menschen bauen Städte, Straßen, Tempel, Theater und andere beeindruckende Bauwerke. Die Welt von Griechen und Römern prägt viele Ideen bis heute.",
+      "x": 0,
+      "y": 58.2,
+      "width": 100,
+      "height": 10.9
+    },
+    {
+      "id": "mittelalter",
+      "label": "Mittelalter",
+      "text": "Im Mittelalter, ungefähr von fünfhundert bis fünfzehnhundert nach Christus, werden Burgen und Klöster gebaut. Ritter, Bauern und Handwerker prägen diese Zeit. Viele Menschen leben auf dem Land, und Städte wachsen langsam weiter.",
+      "x": 0,
+      "y": 69.1,
+      "width": 100,
+      "height": 10
+    },
+    {
+      "id": "neuzeit",
+      "label": "Neuzeit",
+      "text": "In der Neuzeit, ungefähr von fünfzehnhundert bis neunzehnhundert, verändern Entdeckungen, Erfindungen und neue Ideen die Welt. Schiffe fahren über weite Meere, Buchdruck und Wissenschaft verbreiten Wissen, und mit Maschinen beginnt die Industrialisierung.",
+      "x": 0,
+      "y": 79.1,
+      "width": 100,
+      "height": 10
+    },
+    {
+      "id": "moderne",
+      "label": "Moderne",
+      "text": "In der Moderne, seit ungefähr neunzehnhundert bis heute, entwickeln sich Technik und Wissen besonders schnell. Menschen bauen Computer, schnelle Züge, Solaranlagen und Windräder. Sie erforschen die Erde genauer und reisen sogar in den Weltraum.",
+      "x": 0,
+      "y": 89.1,
+      "width": 100,
+      "height": 10.9
+    }
+  ]
+}
