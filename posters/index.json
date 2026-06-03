@@ -3,7 +3,7 @@
     {
       "id": "ritter-muelleimer-selbstlesendes-poster",
       "title": "Ritter Mülleimer",
-      "prompt": "Leichte Abwandlung: verwandel dieses Poster: /Users/jona/Downloads/B51D7179-1C20-4C74-AFFE-A171AA0582ED.png in ein selbstlesendes Poster",
+      "prompt": "Verwandle das vorhandene Poster /Users/jona/Downloads/B51D7179-1C20-4C74-AFFE-A171AA0582ED.png in ein selbstlesendes Poster.",
       "image": "/poster-assets/ritter-muelleimer-selbstlesendes-poster/poster.png",
       "createdAt": "2026-06-03T13:59:15Z",
       "language": "de-DE"
