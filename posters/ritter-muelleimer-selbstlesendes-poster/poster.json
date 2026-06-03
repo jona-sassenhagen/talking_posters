@@ -1,0 +1,73 @@
+{
+  "id": "ritter-muelleimer-selbstlesendes-poster",
+  "title": "Ritter Mülleimer",
+  "prompt": "Leichte Abwandlung: verwandel dieses Poster: /Users/jona/Downloads/B51D7179-1C20-4C74-AFFE-A171AA0582ED.png in ein selbstlesendes Poster",
+  "image": "/poster-assets/ritter-muelleimer-selbstlesendes-poster/poster.png",
+  "createdAt": "2026-06-03T13:59:15Z",
+  "language": "de-DE",
+  "sections": [
+    {
+      "id": "titel",
+      "label": "Titel",
+      "text": "Dieses Abenteuer heißt Ritter Mülleimer. Auf dem Poster sieht man einen freundlichen Ritter in einer ungewöhnlichen Rüstung aus einem Mülleimer, bereit für eine lustige mittelalterliche Mission.",
+      "x": 1,
+      "y": 1,
+      "width": 47,
+      "height": 16
+    },
+    {
+      "id": "held",
+      "label": "Der Held",
+      "text": "Ritter Mülleimer ist ein mutiger Ritter mit einer sehr ungewöhnlichen Rüstung. Noch größer als sein Mut ist sein Appetit auf Kekse und Salzstangen.",
+      "x": 2,
+      "y": 17,
+      "width": 31,
+      "height": 14
+    },
+    {
+      "id": "auftrag",
+      "label": "Auftrag und Geheimnis",
+      "text": "Der König schickt Ritter Mülleimer los, damit er alles Gemüse für die große Suppe fängt. Dabei hat der Ritter aber zwei heimliche Vorlieben: Er liebt Kekse, und Salzstangen sind sein besonderes Geheimnis.",
+      "x": 1,
+      "y": 32,
+      "width": 32,
+      "height": 24
+    },
+    {
+      "id": "koenig",
+      "label": "Der König",
+      "text": "Vom Balkon der Burg ruft der König seinem Ritter zu, dass er ihm das gesamte Gemüse bringen soll. Alles soll in die große Suppe wandern.",
+      "x": 72,
+      "y": 29,
+      "width": 27,
+      "height": 24
+    },
+    {
+      "id": "wolfgang",
+      "label": "Wolfgang der Brokkoli",
+      "text": "Wolfgang der Brokkoli ist schlau und listig. Er kennt sich mit Fallen aus und ist viel mehr als nur eine Zutat für einen Suppentopf.",
+      "x": 1,
+      "y": 58,
+      "width": 25,
+      "height": 40
+    },
+    {
+      "id": "freundschaft",
+      "label": "Zusammen statt Suppe",
+      "text": "Am Ende beginnt das Abenteuer nicht mit einer Suppe, sondern mit Freundschaft. Ritter Mülleimer, Wolfgang und Lukas halten zusammen, weil sie mehr wollen, als nur in einem Topf zu landen.",
+      "x": 26,
+      "y": 68,
+      "width": 51,
+      "height": 31
+    },
+    {
+      "id": "lukas",
+      "label": "Lukas der Mais",
+      "text": "Lukas der Mais ist fröhlich und schnell. Er hat fast immer einen Plan und bringt gute Laune in das gemeinsame Abenteuer.",
+      "x": 75,
+      "y": 58,
+      "width": 24,
+      "height": 40
+    }
+  ]
+}
